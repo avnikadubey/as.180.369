@@ -1,5 +1,7 @@
 # Dennett Summary, By: Avnika Dubey
 
+# Test change for Jupyter Lab clarification
+
 ## Adding a test text to go over adding a commit to my GitHub via JupyterLab
 
 Constructive comments received by ChatGPT and changes made: 
