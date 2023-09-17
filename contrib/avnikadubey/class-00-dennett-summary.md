@@ -1,3 +1,7 @@
+# Dennett Summary, By: Avnika Dubey
+
+## Adding a test text to go over adding a commit to my GitHub via JupyterLab
+
 Constructive comments received by ChatGPT and changes made: 
 1) Make your thesis statement more explicit
 2) Break longer paragraphs into smaller parts
