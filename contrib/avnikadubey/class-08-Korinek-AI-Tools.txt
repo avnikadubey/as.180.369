@@ -1,0 +1,8 @@
+### Korinek AI Tools Paragraph ###
+
+Within Anton Korinek's 2023 paper "Generative AI for Economic Research:
+Use Cases and Implications for Economists," the author discusses a myriad of LLM tools that prove useful in conducting research, spanning from uses across deriving ideation and feedback, conducting background research, preparing writing and data analysis, to constructing mathematical derivations. Although Korinek describes a variety of uses across varying LLM databases, I've streamlined his list of suggestions to best accommodate the conduction of my research on the impact of ESG integration of Emerging Market firms. 
+
+Firstly, in terms of effective databases to use, Korinet urges his readers to use the most updated and robust versions of LLMs as they have stronger aggregation methods to parse through data and allow for more recency in available data points, allowing for the most high-quality response. When considering Korinet's suggestions, I focused on utilizing the databases of Claude, an LLM created by engineers at Johns Hopkins, which possess about 100k tokens and includes data points from as early as 2023, as well as LlaMa which utilizes 4k tokens and also incorporates datapoints from as early as 2023. Given that the timeframe associated with ESG integration is quite recent, using these two LLMs will allow for more nuanced responses given the newfound availability of ESG-related data procured over the past five years. 
+
+In addition to the Korinet's recommendations of specific LLMs to utilize, the author also urges readers to utilize these LLMs in order to fortif
