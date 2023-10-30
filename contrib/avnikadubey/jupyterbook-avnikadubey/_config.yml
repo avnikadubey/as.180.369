@@ -1,0 +1,14 @@
+# ref: https://jupyterbook.org/en/stable/customize/config.html
+
+title: "First Draft: Impact of ESG-Integration on Emerging Market Indices"
+author: Avnika Dubey
+execute:
+  execute_notebooks: force
+
+bibtex_bibfiles:
+  - citedarticles.bib
+  - more-references.bib
+
+sphinx:
+  config:
+    bibtex_reference_style: author_year
