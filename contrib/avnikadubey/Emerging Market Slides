@@ -509,6 +509,20 @@
   },
   {
    "cell_type": "markdown",
+   "id": "d9bf6e94-983d-4941-9ede-52fb0ccf58e0",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "*Insert graph displaying requirements for ESG and PC scores*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
    "id": "03bc807e-b736-4076-989d-df84835e4020",
    "metadata": {
     "editable": true,
@@ -520,6 +534,111 @@
    "source": [
     "## Dependent Variables"
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "05e4593b-6edb-4104-b604-3bd3af322338",
+   "metadata": {
+    "editable": true,
+    "raw_mimetype": "",
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "*Insert graph displaying each variable, description, and source*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "404cd673-85f6-4dea-9dd9-23133274fbd9",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "subslide"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Regression Methodology\n",
+    "Regression 1\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 ESG_i + U_i\n",
+    "$$\n",
+    "\n",
+    "Regression 2\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 GC_i + U_i\n",
+    "$$\n",
+    "\n",
+    "Regression 3\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 ESG_i + \\beta_2 E_i + \\beta_1 S_i + U_i\n",
+    "$$\n",
+    "\n",
+    "Regression 4: Excluding Financial Markets\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 ESG_i + U_i\n",
+    "$$\n",
+    "1"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "10cf37cd-897c-45b2-812c-e7ce3a355b45",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Results"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "676594db-680a-4faa-83e4-73bc68f31081",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": ""
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "91fc12cd-2868-4834-a37c-3126f40a697b",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": ""
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ce1c5c34-ac01-4bb1-a88f-ec8b4b7a4eea",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": ""
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
   },
   {
    "cell_type": "markdown",
