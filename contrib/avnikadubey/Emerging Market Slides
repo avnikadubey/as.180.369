@@ -31,9 +31,8 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "429aa5ec-cdf3-452b-8d00-b78476e68ef9",
+   "cell_type": "markdown",
+   "id": "d6bfbb60-70ac-44b3-9012-f3b4fb938acd",
    "metadata": {
     "editable": true,
     "slideshow": {
@@ -41,15 +40,13 @@
     },
     "tags": []
    },
-   "outputs": [],
    "source": [
     "Fragment 1: 1979: First Climate Conference in Geneva"
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "19e3f10f-264a-4d5f-99ed-f5cbb001ef2b",
+   "cell_type": "markdown",
+   "id": "8460dc7d-f584-4577-ba36-205b114c3bf4",
    "metadata": {
     "editable": true,
     "slideshow": {
@@ -57,15 +54,13 @@
     },
     "tags": []
    },
-   "outputs": [],
    "source": [
     "Fragment 2: 40 Years Later - Scientists representing 159 nations urge corporate recognition"
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "27e6a0a2-e069-45ee-84bd-8321f99fc04f",
+   "cell_type": "markdown",
+   "id": "9cabc954-f13e-49a4-9d1e-3bcafd3b2d3d",
    "metadata": {
     "editable": true,
     "slideshow": {
@@ -73,7 +68,6 @@
     },
     "tags": []
    },
-   "outputs": [],
    "source": [
     "Fragment 3: Insert number of other corporate-oriented conferences that have spurred since 1979 (aka PCA, STBF)"
    ]
@@ -117,17 +111,19 @@
    "metadata": {
     "editable": true,
     "slideshow": {
-     "slide_type": "slide"
+     "slide_type": "subslide"
     },
     "tags": []
    },
    "source": [
-    "## The Unequal Spatial Recognition of ESG - A Global North Priority"
+    "## The Unequal Spatial Recognition of ESG - A Global North Priority\n",
+    "\n",
+    "\"By 2000, countries classified by the UN Framework Convention on Climate Change in the Annex 1 Global North comparison group accounted for 92% of excess emissions, with the G8 nations (the USA, EU-28, Russia, Japan, and Canada) being together responsible for about 85%.\" - Hickle, 2023"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "634d4ae6-2de6-4441-8140-7337757ef8e4",
+   "id": "e24365d7-1075-40e3-87ce-9a0f27cc26b4",
    "metadata": {
     "editable": true,
     "slideshow": {
@@ -136,26 +132,12 @@
     "tags": []
    },
    "source": [
-    "Past, Present, and Future"
+    "... The 2000s saw a drastic shift in industrial organization across the developed market, deciphering a method to increase profitability while promoting sustainable operations."
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "c4189886-6947-4565-9be2-38f0b9f71ff5",
-   "metadata": {
-    "editable": true,
-    "slideshow": {
-     "slide_type": "fragment"
-    },
-    "tags": []
-   },
-   "source": [
-    "For doing a vitally important job as well as humanly possible. "
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "6ae63e00-6424-447e-8667-d96ca16f8a65",
+   "id": "04cc733b-fe21-4cec-8b49-5f65d3a1123b",
    "metadata": {
     "editable": true,
     "slideshow": {
@@ -164,7 +146,379 @@
     "tags": []
    },
    "source": [
-    "### Google nGram of New Economy"
+    "### Three Phases to Change: Developed Country Perspective"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "14ecb9b7-96f3-4470-92b8-f8ea600a0413",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "A) Tides Change Across U.S. and European Markets \n",
+    "- Bansal: US Metastudy of Initial Profitability Loss \n",
+    "- Dyllick: Similar Results Across European Markets"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "23ac8fe6-34bf-4ebe-b473-f2351d99afa7",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "B) The Time Horizon Consideration: \n",
+    "- Bansal: Fine-tuned and strategized CSR incorporation to promote profitability\n",
+    "- Maas: Decade of European public company restructuring leads to profitability"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bad2fd30-8f32-4a08-8b0d-53f93b1b16df",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "C) Reaping the Benefits of ESG Adoption\n",
+    "- Garcia: Post-GFC Restructuring Leads to Premium (inclusion of ESG perspective)\n",
+    "- Maas: Post-2010 ESG Premium Associated with European and Asian Markets"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a2a40b76-ce40-4ffd-97d7-1e01ff6b465e",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "This theory has been corroborated by Hick's 2023 metastudy of ESG-integration across developed markets"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "210a2fd5-5af3-496b-8019-dd4735febc2c",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "### But Does the ESG-Premium Exist in Emerging Market Firms?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cb7a762c-8936-4db1-8bd2-1c5dfcbfb7ee",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "Disagreement runs rampant."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6a17424b-5df7-4966-bc09-2a576f894f40",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "A) Studies Pointing To Positive Correlations\n",
+    "- Serafeim, 2017\n",
+    "- Giannopoulos, 2022:\n",
+    "- Laskar, 2016:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bb77bdca-bea1-4ef0-80ea-ecec5e18666a",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "B) Studies Pointing to Negative Correlations\n",
+    "- Cheng, 2023:\n",
+    "- Kalia, 2022:\n",
+    "- Khoury, 2022:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5e40b758-c9f6-40f3-a47f-7d9d42ff76ca",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "The results remained inconclusive across each E, S, and G factor"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d3cb174d-9f33-437f-9c21-fe08338d0bc8",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "### The Influence of Globalization\n",
+    "The rise of globalization in the 2000s increased the rate of production across the emerging markets, making the sustainability protocols even more dire."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "175d0305-686d-49c4-83fd-edfd9403df40",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": ""
+    },
+    "tags": []
+   },
+   "source": [
+    "However, Duque and Grisales find that emerging markets continue to be pulled away from pursing sustianbility measures due to"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "de394f44-b2d8-4764-9158-565b77fc6efe",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "- Lack of institutions and accoutability towards Sustinability frameworks\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e830d80f-9ebe-41ae-aeda-d023ee9f7d09",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "- Low cost of capital associated with a lack of regulation\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "273e97a9-3224-4f1b-a4bb-f402f30ff43d",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "- The price benefits of production vulturing by more developed firms"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2efa1ed8-9fac-4783-b32c-fd4327bd3278",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "### The Need For Proof: A Preventative Measure"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0418e8da-0d63-493a-a327-bed2982148b2",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "subslide"
+    },
+    "tags": []
+   },
+   "source": [
+    "Emerging market's are set to become the world's global growth generators over the next 20 years"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "98bccd87-9e5c-4aaa-ab4e-ae3a398df46d",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "In that time: (List negative implications of not addressing corporate responsibility in EM)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c5c6bb22-a823-4497-b7b0-6e6c1ef98fb8",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "-X "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2ecb7a55-6301-4934-a057-a852581017f6",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "-Y"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0d1bd2a3-b42e-4a64-af62-a2ce69e4feb1",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "-Z"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "903da63b-6961-44a8-b261-7e49dc9ee5be",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Wheres The Gap?\n",
+    "1) Lack of studies focused particularly on the role of the IDH in EM\n",
+    "2) Lack of studies analyzing CSR-CFP across Emerging Markets\n",
+    "3) Lack of studies connecting the current incentive for EM to not employ sustinability measures into the calculus for the magnitude of the ESG-premium"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e4c223f8-1ee2-4ead-afba-81a8f93d4885",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Methodology"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c7f79247-cf03-4162-835b-a62b894c1b62",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "subslide"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Independent Variables"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "03bc807e-b736-4076-989d-df84835e4020",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "subslide"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Dependent Variables"
    ]
   },
   {
