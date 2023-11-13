@@ -802,6 +802,68 @@
   },
   {
    "cell_type": "markdown",
+   "id": "93ae01fc-b5df-457f-ad74-9d44fb50fa52",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "### So What Is The Conclusion?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4b3516c1-aff6-4bc8-a01a-9bc5a8b0aaae",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "subslide"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "### Is This Conclusion in Line with Literature? "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ee1192fa-c3dc-4936-97f6-05830700c140",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "subslide"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "### Weakpoints of the Analysis and Areas for Improvement?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d2d24f60-23e3-4231-be62-4cad1313c42d",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "subslide"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "### Potential Avenues for Future Research?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
    "id": "d18c3360-9634-42b8-b8e2-a1b1100998c9",
    "metadata": {
     "editable": true,
