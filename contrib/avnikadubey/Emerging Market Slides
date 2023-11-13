@@ -595,41 +595,147 @@
     "tags": []
    },
    "source": [
-    "## Results"
+    "### Results\n",
+    "\n",
+    "*Insert descriptive statistics photo and overrepresentation photo here*"
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "676594db-680a-4faa-83e4-73bc68f31081",
+   "cell_type": "markdown",
+   "id": "2475ab8e-703f-4abb-8da0-d42a744242cc",
    "metadata": {
     "editable": true,
     "slideshow": {
-     "slide_type": ""
+     "slide_type": "slide"
     },
     "tags": []
    },
-   "outputs": [],
-   "source": []
+   "source": [
+    "The overall conclusions of the regression were largely positive across all four regressions."
+   ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "91fc12cd-2868-4834-a37c-3126f40a697b",
+   "cell_type": "markdown",
+   "id": "d21e5dea-4f0a-4307-b615-e8f1398276c1",
    "metadata": {
     "editable": true,
     "slideshow": {
-     "slide_type": ""
+     "slide_type": "slide"
     },
     "tags": []
    },
-   "outputs": [],
-   "source": []
+   "source": [
+    "## Regression 1\n",
+    "\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 ESG_i + U_i\n",
+    "$$\n",
+    "\n",
+    "Keynote Findings:\n",
+    "\n",
+    "-The coefficient for ESG is estimated at 0.2201 (p < 0.001), suggesting that a one-unit increase in the ESG score is associated with a 0.2201 unit increase in ROA.\n",
+    "\n",
+    "-R-squared value of 0.34 indicates that the ESG score explains approximately 34.4% of the variance in ROA.\n",
+    "\n",
+    "-The constant term, representing the intercept, is estimated at -6.5835 (p < 0.001), indicating that even in the absence of ESG, there is a negative impact on ROA. "
+   ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "ce1c5c34-ac01-4bb1-a88f-ec8b4b7a4eea",
+   "cell_type": "markdown",
+   "id": "554f8313-6455-42c8-b06d-b298a881bb4c",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "*insert photo of reg 1*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dfef3f65-c53f-4fe8-80e4-d99f549a1f5d",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Regression 2\n",
+    "\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 GC_i + U_i\n",
+    "$$\n",
+    "\n",
+    "Keynote Findings:\n",
+    "\n",
+    "-The coefficient for GC is estimated at 0.0924 (p < 0.001), indicating that a one-unit increase in the GC score is associated with a 0.0924 unit increase in ROA.\n",
+    "\n",
+    "-The R-squared value for this model is relatively low, standing at 0.079, implying that the GC score explains only a small portion of the variance in ROA.\n",
+    "\n",
+    "-The constant term, representing the intercept, is estimated at -0.8220, though this coefficient is not statistically significant (p = 0.478), suggesting that the intercept is not significantly different from zero."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bb03f0f1-ee4e-451d-bf11-127962796c1e",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "*insert photo of reg 2*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b54a2f10-38d3-4b8a-901b-14b39627113a",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Regression 3\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 ESG_i + \\beta_2 E_i + \\beta_1 S_i + U_i\n",
+    "$$\n",
+    "\n",
+    "Keynote Findings:\n",
+    "\n",
+    "-Specifically, the coefficients for E, S, and G are estimated at 0.0590 (p = 0.003), 0.0519 (p = 0.019), and 0.1254 (p < 0.001), respectively. \n",
+    "\n",
+    "-This implies that for each unit increase in E, S, and G scores, ROA is expected to increase by 0.0590, 0.0519, and 0.1254 units, respectively.\n",
+    "\n",
+    "-The R-squared value is 0.364, meaning that 36% of the variation in the financial metric can be attributed to the variation in the independent variables."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a97c8f08-254b-436a-add8-04cd45ffe8a8",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "*insert photo of reg 3.1*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "142c25a8-6f36-46a6-b45b-db57da39869b",
    "metadata": {
     "editable": true,
     "slideshow": {
@@ -637,8 +743,76 @@
     },
     "tags": []
    },
-   "outputs": [],
-   "source": []
+   "source": [
+    "*insert photo of reg 3.2*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f3aeaeff-7a15-4dc2-8bc5-fc0a0f496209",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": ""
+    },
+    "tags": []
+   },
+   "source": [
+    "*insert photo of reg 3.3*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f7873cfd-a83e-46f5-afec-b611d0f174de",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Regression 4 ##\n",
+    "$$\n",
+    "ROA_i = \\beta_0 + \\beta_1 ESG_i + U_i\n",
+    "$$\n",
+    "\n",
+    "Keynote Findings:\n",
+    "\n",
+    "-The coefficient for ESG is estimated at 0.2201 (p < 0.001), demonstrating that a one-unit increase in the ESG score is associated with a 0.2201 unit increase in ROA.\n",
+    "\n",
+    "-The model exhibits a relatively high R-squared value of 0.344, indicating that the ESG score accounts for approximately 34.4% of the variance in ROA.\n",
+    "\n",
+    "-The constant term, representing the intercept, is estimated at -6.5835 (p < 0.001), implying that even in the absence of ESG considerations, there is a negative impact on ROA. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0e08db3e-9870-469d-b18f-90796389def6",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "fragment"
+    },
+    "tags": []
+   },
+   "source": [
+    "*insert photo of reg 4*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d18c3360-9634-42b8-b8e2-a1b1100998c9",
+   "metadata": {
+    "editable": true,
+    "slideshow": {
+     "slide_type": "slide"
+    },
+    "tags": []
+   },
+   "source": [
+    "### References:"
+   ]
   },
   {
    "cell_type": "markdown",
