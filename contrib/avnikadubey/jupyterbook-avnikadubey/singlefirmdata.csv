@@ -1,272 +1,272 @@
-Company,Region,Country,Sector,Industry,ESG,E,G,S,GC,,ROA 2022,ROA 2021,ROA 2020,,,Entity Name,gc_262
-Mahindra & Mahindra Ltd.,Asia,India,Consumer Durables,Motor Vehicles,63.2,64.72,66.12,59.4,69.23,,8.6,6.24,6.5,,,Axis Bank Ltd.,64.07
-Gerdau SA,South America,Brazil,Non-Energy Minerals,Steel,59.38,65.18,50.24,57.03,62.92,,3.7,4.2,3.4,,,Bharti Airtel Ltd.,61.83
-"CSC Financial Co., Ltd.",Asia,China,Finance,Investment Managers,46.97,45.88,47.25,47.34,63.59,,1.25,2.1,6.3,,,"Guangzhou Automobile Group Co., Ltd.",63.27
-MMC Norilsk Nickel PJSC,Europe,Russian Federation,Non-Energy Minerals,Other Metals/Minerals,63.34,66.21,62.05,59.37,61.31,,6.9,3.6,2.4,,,"Beijing Kingsoft Office Software, Inc.",53.12
-"Yunnan Baiyao Group Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,45.18,48.23,42.97,45.09,55.79,,4.2,3.2,6.7,,,"XCMG Construction Machinery Co., Ltd.",51.76
-Bajaj Finserv Ltd.,Asia,India,Finance,Life/Health Insurance,47.49,50.63,44.19,51.03,55.18,,2.9,4.4,4.3,,,"Orient Securities Co., Ltd.",62.01
-Polyus PJSC,Europe,Russian Federation,Non-Energy Minerals,Precious Metals,58.64,56.82,59.3,61.26,59.71,,3.2,2.1,5,,,IndusInd Bank Ltd.,65.61
-"Wuliangye Yibin Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,47.6,49.11,43.19,47.3,62.44,,3.5,2.3,5.2,,,Avenue Supermarts Ltd.,53.35
-Larsen & Toubro Ltd.,Asia,India,Industrial Services,Engineering & Construction,60.4,60.83,61.25,59.11,64.27,,6.43,3.4,6.3,,,Gazprom Neft PJSC,63.73
-Sun Pharmaceutical Industries Ltd.,Asia,India,Health Technology,Pharmaceuticals: Major,53.79,58.41,50.04,53.82,57.83,,3.8,1.3,1.4,,,"NetEase, Inc.",54.06
-H World Group Ltd.,Asia,China,Consumer Services,Hotels/Resorts/Cruise lines,47.38,46.47,48.4,47.85,54.74,,3.5,1.3,6.7,,,Jiangsu Expressway Co. Ltd.,51.96
-"Jiangsu King's Luck Brewery Joint-stock Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,44.67,44.36,43.7,45.61,54.55,,2.1,2.4,3.2,,,"Daqin Railway Co., Ltd.",46.23
-"China National Nuclear Power Co., Ltd.",Asia,China,Utilities,Electric Utilities,46.65,50.84,41.45,45.05,66.23,,3.5,2.1,5.2,,,NTPC Ltd.,58.29
-"Sany Heavy Industry Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,50.27,49.85,43.59,55.49,62.13,,5.3,2.8,6.2,,,Huadian Power International Corp. Ltd.,61.16
-"Li Auto, Inc.",Asia,China,Consumer Durables,Motor Vehicles,49.96,50.11,52.44,48.24,42.96,,2.3,2.6,1.3,,,"Shanghai Pudong Development Bank Co., Ltd.",58.32
-"COSCO SHIPPING Energy Transportation Co., Ltd.",Asia,China,Transportation,Marine Shipping,52.68,59.53,46,48.09,62.35,,3.2,2.4,4.6,,,"Shanghai RAAS Blood Products Co., Ltd.",46.78
-Pidilite Industries Ltd.,Asia,India,Process Industries,Industrial Specialties,54.89,64.58,41.87,48.24,58.49,,4.3,2.8,3.2,,,Tata Motors Ltd.,59.33
-"Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",Asia,China,Health Technology,Medical Specialties,47.72,50.16,47.22,46.74,67.12,,1.2,1.2,4.6,,,Vale SA,56.01
-"Zhongji Innolight Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,47.04,47.24,42.85,49.54,57.41,,3.4,1.4,3.2,,,ITC Ltd.,66.3
-"Zoomlion Heavy Industry Science & Technology Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,48.17,49.56,46.89,46.71,54.86,,2.2,2.8,1.3,,,Surgutneftegas PJSC,47.8
-Hua Hong Semiconductor Ltd.,Asia,China,Electronic Technology,Semiconductors,52.35,61.45,47.6,39.92,66.3,,5.6,8.6,5.1,,,"Bank of Ningbo Co., Ltd.",48.84
-"NetEase, Inc.",Asia,China,Technology Services,Packaged Software,49.96,48.3,47.52,52.78,54.06,,2.4,2.1,0.1,,,"China Galaxy Securities Co., Ltd.",57.89
-Jiangsu Expressway Co. Ltd.,Asia,China,Transportation,Other Transportation,51.58,56.78,49.78,46.18,51.96,,2.8,4.3,2.3,,,"AVIC Jonhon Optronic Technology Co., Ltd.",63.29
-Grasim Industries Ltd.,Asia,India,Non-Energy Minerals,Construction Materials,57.61,60.44,51.06,57.66,62.05,,4.8,2.5,5.1,,,"Zoomlion Heavy Industry Science & Technology Co., Ltd.",54.86
-"Contemporary Amperex Technology Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,52.17,53.05,48.08,53.14,57.32,,3.2,6.3,6.3,,,Polyus PJSC,59.71
-China Telecom Corp. Ltd.,Asia,China,Communications,Wireless Telecommunications,52.69,56.24,52.74,49.01,62.07,,4.5,2.3,2,,,Adani Energy Solutions Ltd.,58.7
-Siemens Ltd.,Asia,India,Producer Manufacturing,Electrical Products,59.64,65.02,56.51,52.26,69.97,,6.8,7.4,2.5,,,"Zijin Mining Group Co., Ltd.",61.26
-"Inner Mongolia Yili Industrial Group Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,48.67,47.49,46.16,51.22,68.55,,3.2,2.1,3.1,,,"Poly Developments & Holdings Group Co., Ltd.",61.95
-"Huatai Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.09,60.77,48.85,40.52,65.89,,2.3,4.2,5.2,,,"Guotai Junan Securities Co., Ltd.",62.06
-"Luzhou Laojiao Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,45.2,45.08,44.64,45.66,55.14,,1.3,5.8,5.6,,,"Shanxi Xinghuacun Fen Wine Factory Co., Ltd.",51.77
-"Yum China Holdings, Inc.",Asia,China,Consumer Services,Restaurants,51.64,51.36,48.45,53.04,70.27,,6.7,3.2,2.3,,,Kotak Mahindra Bank Ltd.,60.9
-Companhia Energética de Minas Gerais SA,South America,Brazil,Utilities,Electric Utilities,58.72,64.7,55.64,52.23,54.57,,7.8,5.7,5.3,,,"Bank of Nanjing Co., Ltd.",58.94
-Itausa SA,South America,Brazil,Finance,Financial Conglomerates,48.27,42.83,48.72,50.46,62.21,,7.5,2.4,3.2,,,China Longyuan Power Group Corp. Ltd.,54.93
-Itaú Unibanco Holding SA,South America,Brazil,Finance,Major Banks,58.24,63.36,59.52,55.03,68.01,,12.4,4.2,4.2,,,Midea Group Co. Ltd.,65.82
-Dr. Reddy's Laboratories Ltd.,Asia,India,Health Technology,Pharmaceuticals: Major,53.17,61.98,52.28,50.98,66.09,,5.4,4.5,1.24,,,"COSCO SHIPPING Energy Transportation Co., Ltd.",62.35
-Infosys Ltd.,Asia,India,Technology Services,Information Technology Services,59.88,56.88,66.77,57.64,70.44,,7.8,6.8,5.3,,,"Asymchem Laboratories (Tianjin) Co., Ltd.",61.54
-"KE Holdings, Inc.",Asia,China,Finance,Real Estate Development,46.64,47.25,44.22,48.35,52.58,,3.4,2.4,2.5,,,"China Shipbuilding Industry Co., Ltd.",58.62
-"Great Wall Motor Co., Ltd.",Asia,China,Consumer Durables,Motor Vehicles,49.67,55.43,47.19,43.57,55.73,,5.7,7.2,2.5,,,Dabur India Ltd.,61.22
-"EVE Energy Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,47.34,50.82,41.84,43.45,65.51,,3.2,7.1,6.2,,,Shenzhou International Group Holdings Ltd.,62.32
-China Longyuan Power Group Corp. Ltd.,Asia,China,Utilities,Alternative Power Generation,48.5,49.75,46.78,48.3,54.93,,4.3,3.7,38.1,,,"Pharmaron Beijing Co., Ltd.",63.83
-Tata Steel Ltd.,Asia,India,Non-Energy Minerals,Steel,62.12,64.93,56.79,62.08,72.45,,12.3,12.9,3,,,Britannia Industries Ltd.,57.66
-COSCO SHIPPING Holdings Co. Ltd.,Asia,China,Transportation,Marine Shipping,51.3,57.33,46.44,46.01,66.09,,3.2,1.4,2.5,,,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",64.87
-Semiconductor Manufacturing International Corp.,Asia,China,Electronic Technology,Semiconductors,53.69,58.62,52.64,46.05,60.59,,5.4,3.2,4.2,,,Tech Mahindra Ltd.,66.21
-Eicher Motors Ltd.,Asia,India,Consumer Durables,Motor Vehicles,55.46,53.8,57.11,57.11,57.46,,5.7,6.2,5.2,,,Hindustan Unilever Ltd.,64.24
-"Tsingtao Brewery Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,52.32,54.67,46.33,51.47,53.67,,3.2,6.1,7.5,,,"BYD Co., Ltd.",53.3
-"Ningbo Tuopu Group Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,43.92,46.02,40.65,42.73,46.81,,6.5,4.2,3.2,,,Kuaishou Technology,56.71
-"China Minsheng Banking Corp., Ltd.",Asia,China,Finance,Regional Banks,48.68,52.57,49.67,46.21,57.45,,7.3,5.3,4.6,,,Mahindra & Mahindra Ltd.,69.23
-China Everbright Bank Co. Ltd.,Asia,China,Finance,Major Banks,51.49,61.15,46.01,50.75,58.52,,8.7,6.7,4.1,,,"Contemporary Amperex Technology Co., Ltd.",57.32
-"Shanghai Pudong Development Bank Co., Ltd.",Asia,China,Finance,Regional Banks,54.29,66.08,48.62,52.69,58.32,,6.4,2.4,2.5,,,"Flat Glass Group Co., Ltd.",65.19
-Severstal PAO,Europe,Russian Federation,Non-Energy Minerals,Steel,56.58,63.89,46.5,51.84,65.31,,5.4,6.8,6.2,,,"Ningbo Tuopu Group Co., Ltd.",46.81
-"Tongwei Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,51.9,56.37,49.21,47.05,71.92,,3.4,5.6,7.1,,,Cipla Ltd.,62.59
-"Poly Developments & Holdings Group Co., Ltd.",Asia,China,Finance,Real Estate Development,47.96,49.27,42.1,50.02,61.95,,2.3,8.6,3.5,,,"China Pacific Insurance (Group) Co., Ltd.",49.98
-"Beijing-Shanghai High-Speed Railway Co., Ltd.",Asia,China,Transportation,Railroads,44.02,43.4,49.61,38.1,48.27,,4.2,5.4,2.6,,,Maruti Suzuki India Ltd.,61.85
-Hindalco Industries Ltd.,Asia,India,Non-Energy Minerals,Other Metals/Minerals,65.29,71.65,60.91,57.76,65.82,,6.4,7.6,3.1,,,China Eastern Airlines Corp. Ltd.,58.09
-"JD Health International, Inc.",Asia,China,Health Services,Medical/Nursing Services,50.75,49.49,48.72,51.9,63.1,,4.3,9.6,5.2,,,Air China Ltd.,61.21
-"Haitong Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.23,59.29,50.61,40.23,59.26,,2.3,3.5,2.4,,,"Jiangsu King's Luck Brewery Joint-stock Co., Ltd.",54.55
-"Henan Shuanghui Investment & Development Co., Ltd.",Asia,China,Consumer Non-Durables,Food: Meat/Fish/Dairy,49.24,51.73,48.11,46.1,61.23,,5.3,7.6,6.5,,,"Hua Xia Bank Co., Ltd.",55.98
-Companhia Paranaense de Energia,South America,Brazil,Utilities,Electric Utilities,56.66,55.16,60.39,55.07,54.2,,6.8,3.3,3.1,,,Banco do Brasil SA,66.33
-"TBEA Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,48.58,53.52,44.16,43.17,60.41,,4.3,5.8,4.6,,,"XP, Inc.",60.96
-China Petroleum & Chemical Corp.,Asia,China,Energy Minerals,Integrated Oil,57.85,65.42,49.04,58.81,57.91,,6.9,9.8,3.2,,,"NARI Technology Co., Ltd.",62.72
-"XCMG Construction Machinery Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,44.06,43.37,41.37,47.03,51.76,,5.3,6.7,5.6,,,"Citic Pacific Special Steel Group Co., Ltd.",56.75
-"Hithink RoyalFlush Information Network Co., Ltd.",Asia,China,Technology Services,Information Technology Services,40.51,43.18,40.47,39.55,43.44,,2.1,8.9,2.4,,,Gerdau SA,62.92
-"Muyuan Foods Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,51.07,52.65,44.72,51.05,65.96,,3.3,7.6,5.7,,,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.",59.24
-"ZTO Express (Cayman), Inc.",Asia,China,Transportation,Air Freight/Couriers,52.4,58,46.39,51,53.56,,4.3,8.6,1.3,,,"Henan Shuanghui Investment & Development Co., Ltd.",61.23
-Adani Ports & Special Economic Zone Ltd.,Asia,India,Transportation,Other Transportation,60.1,61.14,61.2,56.46,62.95,,7.6,10.2,2.4,,,Godrej Consumer Products Ltd.,69.18
-"Bank of Shanghai Co., Ltd.",Asia,China,Finance,Regional Banks,42.49,41.99,43.32,42.16,61.46,,4.3,7.6,7.2,,,BB Seguridade Participações SA,58.24
-"Industrial Bank Co., Ltd.",Asia,China,Finance,Regional Banks,46.24,51.36,45.14,44.62,62.11,,6.7,4.3,4,,,Severstal PAO,65.31
-Air China Ltd.,Asia,China,Transportation,Airlines,47.53,51.93,44.58,45,61.21,,7.6,7.9,5.2,,,"Baidu, Inc.",55.99
-Surgutneftegas PJSC,Europe,Russian Federation,Energy Minerals,Integrated Oil,51.99,56,51.59,45.75,47.8,,5.4,4.6,1.3,,,"NIO, Inc.",44.7
-"Anhui Conch Cement Co., Ltd.",Asia,China,Non-Energy Minerals,Construction Materials,52.48,57.85,45.69,45.68,61.58,,3.2,2.3,0.2,,,"Tata Power Co., Ltd.",67.69
-"Bank of Jiangsu Co., Ltd.",Asia,China,Finance,Regional Banks,42.85,43.59,44.3,41.53,53.71,,4.5,5.6,4.2,,,Adani Enterprises Ltd.,57.51
-Gazprom Neft PJSC,Europe,Russian Federation,Energy Minerals,Oil Refining/Marketing,62.96,68.79,60.96,55.51,63.73,,13.2,4.6,5.2,,,Luxshare Precision Industry Co. Ltd.,69.38
-"Shanghai Baosight Software Co., Ltd.",Asia,China,Technology Services,Packaged Software,39.5,43.37,43.79,33.83,53.18,,4.1,3.6,4.2,,,Hindustan Zinc Ltd.,66.16
-"Hua Xia Bank Co., Ltd.",Asia,China,Finance,Major Banks,51.68,52.77,46.93,54.38,55.98,,3.5,3.7,3.1,,,Infosys Ltd.,70.44
-Ambev SA,South America,Brazil,Consumer Non-Durables,Beverages: Alcoholic,58.88,60.13,56.52,58.04,58.97,,3.2,2.5,2.3,,,"ZTO Express (Cayman), Inc.",53.56
-"Yihai Kerry Arawana Holdings Co., Ltd.",Asia,China,Consumer Non-Durables,Food: Major Diversified,52.18,52.37,54.14,51.48,64.65,,4.5,6.8,4.2,,,Tata Steel Ltd.,72.45
-Banco do Brasil SA,South America,Brazil,Finance,Major Banks,52.81,52.34,53.68,52.45,66.33,,3.2,3.2,3.1,,,Huaneng Lancang River Hydropower Inc.,57.64
-"JA Solar Technology Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,47.6,49.7,46.66,44.73,66.84,,4.4,7.8,2.5,,,China Railway Group Ltd.,59.7
-CRRC Corp. Ltd.,Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,49.53,53.67,42.91,47.07,64.22,,3.2,4.8,1.3,,,"Haitong Securities Co., Ltd.",59.26
-"BOE Technology Group Co., Ltd.",Asia,China,Electronic Technology,Electronic Equipment/Instruments,45.42,46.96,45.14,44.01,67.51,,2.1,2.6,5.1,,,"WuXi AppTec Co., Ltd.",66.17
-Britannia Industries Ltd.,Asia,India,Consumer Non-Durables,Food: Specialty/Candy,53.8,53,51.65,55.71,57.66,,5.6,3.8,3.4,,,"Rongsheng Petrochemical Co., Ltd.",62.02
-"China Pacific Insurance (Group) Co., Ltd.",Asia,China,Finance,Multi-Line Insurance,51.92,67.37,44.84,47.79,49.98,,4.3,8.2,1.2,,,"Guangzhou Baiyunshan Pharmaceutical Holdings Co., Ltd.",60.46
-"S.F. Holding Co., Ltd.",Asia,China,Transportation,Air Freight/Couriers,49.65,49.24,45.16,56.22,65.2,,2.37,2.7,3.5,,,Telefonica Brasil SA,66.56
-"Shandong Gold Mining Co., Ltd.",Asia,China,Non-Energy Minerals,Precious Metals,51.07,55.02,44.32,49.77,57.73,,4.7,4.2,2.4,,,Wipro Ltd.,62.92
-Telefonica Brasil SA,South America,Brazil,Communications,Specialty Telecommunications,56.78,66.43,47.83,53.65,66.56,,5.2,6.7,6.1,,,"TBEA Co., Ltd.",60.41
-"Everbright Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,44,41.59,47.2,42.73,59,,3.8,4.5,3.5,,,"Shenwan Hongyuan Group Co., Ltd.",57.28
-"AVIC Shenyang Aircraft Co., Ltd.",Asia,China,Electronic Technology,Aerospace & Defense,43.22,47.85,40.77,38.6,47.38,,3.9,3.7,1.3,,,"Didi Global, Inc.",42.62
-"Shanghai Electric Group Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,53.4,56.16,49.21,51.9,65.13,,5.3,4.7,2.3,,,"China Coal Energy Co., Ltd.",59.61
-CMOC Group Ltd.,Asia,China,Distribution Services,Wholesale Distributors,60.71,64.54,52.7,60.7,65.68,,6.4,8.6,4.3,,,"Li Ning Co., Ltd.",62.46
-"Wanhua Chemical Group Co., Ltd.",Asia,China,Process Industries,Industrial Specialties,48.58,53.74,41.36,45.32,70.42,,3.2,7.5,4.2,,,"Chongqing Rural Commercial Bank Co., Ltd.",59.71
-"Ping An Bank Co., Ltd.",Asia,China,Finance,Major Banks,55.21,58.03,54.41,54.46,59.21,,4.6,8.6,4.1,,,"Baoshan Iron & Steel Co., Ltd.",67.84
-China State Construction Engineering Corp. Ltd.,Asia,China,Industrial Services,Engineering & Construction,47.88,50.15,43.45,46.54,67.44,,3.2,9.1,5.6,,,Divi's Laboratories Ltd.,58.72
-HDFC Bank Ltd.,Asia,India,Finance,Regional Banks,55.79,67.46,58.58,43.71,52.79,,4.4,5.4,4.2,,,"EVE Energy Co., Ltd.",65.51
-"Bank of Nanjing Co., Ltd.",Asia,China,Finance,Regional Banks,49.2,59.03,44.02,48.18,58.94,,3.6,7.4,6.5,,,Dongfang Electric Corp. Ltd.,54.8
-"Nongfu Spring Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Non-Alcoholic,59.74,59.76,52.98,62.43,67.88,,6.7,7.3,3.5,,,NOVATEK JSC,65.77
-"Sungrow Power Supply Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,53.74,55.11,46.77,54.91,69.96,,4.3,2.4,2.3,,,"Hithink RoyalFlush Information Network Co., Ltd.",43.44
-"Guangdong Haid Group Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,52.01,55.08,44.07,51.12,53.88,,2.1,2.1,1.2,,,"Sungrow Power Supply Co., Ltd.",69.96
-"Citic Pacific Special Steel Group Co., Ltd.",Asia,China,Non-Energy Minerals,Steel,53.55,56.55,50.44,50.33,56.75,,4.5,4.7,3.5,,,"JD Health International, Inc.",63.1
-Inner Mongolia Baotou Steel Union Co. Ltd.,Asia,China,Non-Energy Minerals,Steel,43.76,45.33,42.42,41.7,52.88,,6.4,7.3,6.4,,,"Everbright Securities Co., Ltd.",59
-"AECC Aviation Power Co., Ltd.",Asia,China,Electronic Technology,Aerospace & Defense,46.64,49.96,44.04,43.38,55,,3.2,8.2,7.3,,,China Life Insurance Co. Ltd.,54.95
-"Flat Glass Group Co., Ltd.",Asia,China,Process Industries,Industrial Specialties,49.86,51.41,47.24,49.04,65.19,,3.7,6.3,5.2,,,China Tourism Group Duty Free Corp. Ltd.,60.16
-Titan Co. Ltd.,Asia,India,Consumer Durables,Other Consumer Specialties,54.14,53.3,53.65,55.1,62.34,,2.5,4.6,3.5,,,"Shanghai Pharmaceuticals Holding Co., Ltd.",57.26
-Huaneng Lancang River Hydropower Inc.,Asia,China,Utilities,Electric Utilities,45.51,45.52,43.28,47.93,57.64,,5.6,2.7,2.1,,,"NAURA Technology Group Co., Ltd.",61.19
-"Li Ning Co., Ltd.",Asia,China,Consumer Non-Durables,Apparel/Footwear,51.34,51.1,55.8,49.25,62.46,,13.5,7.2,7.5,,,"Tongwei Co., Ltd.",71.92
-"Ganfeng Lithium Group Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,58.64,67.54,48.75,51.3,65.77,,4.2,4.6,6.3,,,China Energy Engineering Corp. Ltd.,59.47
-Tata Consultancy Services Ltd.,Asia,India,Technology Services,Information Technology Services,52.51,54.34,52.39,51.23,65.18,,4.6,2.8,2.4,,,"Fuyao Glass Industry Group Co., Ltd.",62.44
-Haidilao International Holding Ltd.,Asia,China,Consumer Services,Restaurants,50.46,54.2,49.53,46.97,56,,4.2,2.3,5.4,,,Bank of Baroda,49.68
-"Hangzhou Hikvision Digital Technology Co., Ltd.",Asia,China,Electronic Technology,Telecommunications Equipment,48.59,47.69,47.68,50.05,65.41,,1.5,8.6,3.2,,,State Bank of India,49.91
-"BYD Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,47.96,47.49,45.6,50.02,53.3,,3.2,8.4,6.5,,,Power Grid Corp. of India Ltd.,61.73
-"Pharmaron Beijing Co., Ltd.",Asia,China,Commercial Services,Miscellaneous Commercial Services,49.76,52.75,47.77,49.62,63.83,,5.7,9.1,7.5,,,H World Group Ltd.,54.74
-"Beijing Kingsoft Office Software, Inc.",Asia,China,Technology Services,Packaged Software,39.6,42.12,40.81,36.93,53.12,,4.2,7.9,3.4,,,ICICI Bank Ltd.,55.06
-"BYD Electronic (International) Co., Ltd.",Asia,China,Electronic Technology,Electronic Production Equipment,47.37,50.64,50.94,41.89,54.08,,4.6,3.6,6.2,,,"Tsingtao Brewery Co., Ltd.",53.67
-"NARI Technology Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,49.2,50.08,45.43,50.88,62.72,,3.2,6.8,3.4,,,"Shenzhen Transsion Holding Co., Ltd.",57.35
-HCL Technologies Ltd.,Asia,India,Technology Services,Information Technology Services,50.98,55.22,52,47.17,64.9,,4.5,4.3,3.2,,,"SDIC Power Holdings Co., Ltd.",61.35
-"Shanghai International Airport Co., Ltd.",Asia,China,Transportation,Other Transportation,41.13,43.33,41.06,40.35,49.41,,3.1,3.1,4.3,,,"Wuliangye Yibin Co., Ltd.",62.44
-Transneft PJSC,Europe,Russian Federation,Industrial Services,Oil & Gas Pipelines,52.66,53.28,45.42,59.04,52.93,,5.7,4.6,2.5,,,"B3 SA-Brasil, Bolsa, Balcão",62.54
-Hindustan Unilever Ltd.,Asia,India,Consumer Non-Durables,Household/Personal Care,55.36,60.54,51.42,52.05,64.24,,7.6,3.2,6.4,,,"PICC Property & Casualty Co., Ltd.",58.89
-Aluminum Corp. of China Ltd.,Asia,China,Distribution Services,Wholesale Distributors,52.6,59.21,42.56,49.4,62.86,,3.2,6.8,6.1,,,HCL Technologies Ltd.,64.9
-"CITIC Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,47.71,55.41,51.24,40.65,57.34,,2.1,2.1,3.5,,,SBI Life Insurance Co. Ltd.,48.6
-Dabur India Ltd.,Asia,India,Consumer Non-Durables,Household/Personal Care,55.98,59.82,56.82,51.58,61.22,,4.6,6.8,7.5,,,JSW Steel Ltd.,61.02
-China Oilfield Services Ltd.,Asia,China,Industrial Services,Contract Drilling,48.34,51.45,42.69,51.46,58.98,,3.7,3.6,3.2,,,"XPeng, Inc.",57.42
-Reliance Industries Ltd.,Asia,India,Energy Minerals,Oil Refining/Marketing,57.73,59.35,54.48,59.62,67.89,,5.8,8.5,5.3,,,"Huizhou Desay SV Automotive Co., Ltd.",61.42
-Axis Bank Ltd.,Asia,India,Finance,Regional Banks,56.61,58.93,56.75,55.46,64.07,,5.4,6.4,6.5,,,"Unigroup Guoxin Microelectronics Co., Ltd.",53.56
-"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,53.93,60.37,54.87,51.76,64.87,,5.3,7.3,2.1,,,"China Yangtze Power Co., Ltd.",66.6
-United Co. RUSAL International PJSC,Europe,Russian Federation,Non-Energy Minerals,Aluminum,56.18,58.73,52.9,54.45,71.2,,6.5,5.7,2.7,,,The People's Insurance Co. (Group) of China Ltd.,61.39
-"China Merchants Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,47.24,50.2,52.35,41.5,53.47,,3.2,8.2,2.4,,,"Hainan Airlines Holding Co., Ltd.",49.26
-HDFC Life Insurance Co. Ltd.,Asia,India,Finance,Multi-Line Insurance,55.94,51.55,57.88,57.17,54.95,,4.8,6.4,6.4,,,MMC Norilsk Nickel PJSC,61.31
-"Sichuan Road & Bridge Co., Ltd.",Asia,China,Industrial Services,Engineering & Construction,45.32,49.63,42.74,41.63,44.04,,4.1,3.5,2.3,,,China State Construction Engineering Corp. Ltd.,67.44
-IndusInd Bank Ltd.,Asia,India,Finance,Major Banks,53.85,56.36,46.76,57.49,65.61,,4.2,2.8,4.6,,,"Jiangsu Yanghe Brewery Joint-Stock Co., Ltd.",59.48
-"IMEIK Technology Development Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,54,60.78,48.04,54.19,58.37,,5.2,4.7,0.1,,,"Ganfeng Lithium Group Co., Ltd.",65.77
-Ambuja Cements Ltd.,Asia,India,Non-Energy Minerals,Construction Materials,60.63,63.96,56.97,55.69,59.4,,9.1,8.1,0.4,,,Bajaj Auto Ltd.,54.21
-Xiaomi Corp.,Asia,China,Electronic Technology,Telecommunications Equipment,53.73,55.3,53.58,52.19,62.21,,3.2,5.3,2.3,,,Haidilao International Holding Ltd.,56
-Adani Green Energy Ltd.,Asia,India,Utilities,Electric Utilities,61.87,63.63,58.15,58.09,61.95,,5.7,1.2,4.6,,,Adani Ports & Special Economic Zone Ltd.,62.95
-"Asymchem Laboratories (Tianjin) Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,52.96,54.33,47.54,54.5,61.54,,5.6,4.8,2.4,,,Oil & Natural Gas Corp. Ltd.,63.4
-"Shanghai RAAS Blood Products Co., Ltd.",Asia,China,Health Technology,Biotechnology,43.7,49.29,42.88,42.4,46.78,,4.2,8.7,0.5,,,"Wuxi Biologics (Cayman), Inc.",64.17
-"Bank of Ningbo Co., Ltd.",Asia,China,Finance,Regional Banks,42.27,41.59,40.06,44.07,48.84,,2.3,3.6,2.5,,,"Zhejiang Sanhua Intelligent Controls Co., Ltd.",48.56
-"Huaneng Power International, Inc.",Asia,China,Utilities,Electric Utilities,53.72,61.62,44.55,50.67,61.79,,4.7,5.7,3.4,,,Tata Consultancy Services Ltd.,65.18
-"Jiangsu Hengli Hydraulic Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,44.18,46.13,43.18,41.6,52.71,,4.3,3.4,0.5,,,"Shanghai International Port (Group) Co., Ltd.",61.31
-"China Yangtze Power Co., Ltd.",Asia,China,Utilities,Electric Utilities,46.97,47.65,45.43,47.52,66.6,,2.1,7.6,8.3,,,TCL Technology Group Corp.,61.48
-NOVATEK JSC,Europe,Russian Federation,Energy Minerals,Integrated Oil,58.96,60.88,56.34,59.8,65.77,,8.7,4.1,5.4,,,Hua Hong Semiconductor Ltd.,66.3
-China Railway Group Ltd.,Asia,China,Industrial Services,Engineering & Construction,52.85,60.68,48.35,46.04,59.7,,4.2,5.3,2.3,,,Centrais Elétricas Brasileiras SA,66.83
-Luxshare Precision Industry Co. Ltd.,Asia,China,Electronic Technology,Electronic Components,54.93,55.79,52.2,55.73,69.38,,5.6,7.6,6,,,"Bank of Beijing Co., Ltd.",50.92
-Longfor Group Holdings Ltd.,Asia,China,Finance,Real Estate Development,57.23,58.51,58.09,53.6,62.71,,5.7,7.8,3.2,,,"Advanced Micro Fabrication Equipment, Inc. China",59.46
-"Shaanxi Coal Industry Co., Ltd.",Asia,China,Energy Minerals,Coal,45.2,46.55,45.32,43.17,56.18,,4.3,2.4,0.5,,,Coal India Ltd.,56.44
-"Iflytek Co., Ltd.",Asia,China,Technology Services,Information Technology Services,46.07,42.12,39.84,53.07,46.88,,2.4,6.2,2.5,,,China Railway Construction Corp. Ltd.,66
-China Southern Airlines Co. Ltd.,Asia,China,Transportation,Airlines,46.73,50.34,43.86,45.24,61.93,,3.4,6.4,0.2,,,"CITIC Securities Co., Ltd.",57.34
-China United Network Communications Ltd.,Asia,China,Communications,Major Telecommunications,46.83,43.14,46.86,50.62,66.03,,3.8,3.5,3.7,,,"Guangdong Haid Group Co., Ltd.",53.88
-"Baidu, Inc.",Asia,China,Technology Services,Internet Software/Services,50.89,54.7,40.02,53.61,55.99,,4.6,5.4,0.4,,,Hindalco Industries Ltd.,65.82
-"Weichai Power Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,54.63,56.23,51.7,53.95,63.5,,5.8,7.2,0.6,,,"Great Wall Motor Co., Ltd.",55.73
-Tata Motors Ltd.,Asia,India,Consumer Durables,Motor Vehicles,59.34,58.56,55.87,62.51,59.33,,8.3,8.2,0.2,,,"Shanghai Electric Group Co., Ltd.",65.13
-"NAURA Technology Group Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,50.67,51.85,45.7,52.87,61.19,,5.3,5.3,0.3,,,Siemens Ltd.,69.97
-"Will Semiconductor Co., Ltd. Shanghai",Asia,China,Electronic Technology,Semiconductors,48.3,47.23,48.35,50.05,58.99,,2.3,7.8,0.8,,,Itaú Unibanco Holding SA,68.01
-"Shenwan Hongyuan Group Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,50.06,57.25,49.35,46.77,57.28,,4.3,3.1,2.4,,,"Luzhou Laojiao Co., Ltd.",55.14
-China Eastern Airlines Corp. Ltd.,Asia,China,Transportation,Airlines,47.83,51.4,45.43,45.8,58.09,,5.2,7.8,4.7,,,China Tower Corp. Ltd.,56.68
-"Unigroup Guoxin Microelectronics Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,44.81,48.08,40.96,42.06,53.56,,4.7,2.4,2.3,,,"Sany Heavy Industry Co., Ltd.",62.13
-Chongqing Changan Automobile Co. Ltd.,Asia,China,Consumer Durables,Motor Vehicles,50.52,58.7,40.91,45.61,56.17,,2.4,6.8,6.4,,,"Yum China Holdings, Inc.",70.27
-Meituan,Asia,China,Transportation,Air Freight/Couriers,50.08,56.94,49.95,45,55.9,,4.6,5.4,8.2,,,PhosAgro PJSC,67.13
-TCL Technology Group Corp.,Asia,China,Electronic Technology,Telecommunications Equipment,46.21,54.45,45.85,37.96,61.48,,3.2,2.3,4.2,,,Semiconductor Manufacturing International Corp.,60.59
-"China Vanke Co., Ltd.",Asia,China,Finance,Real Estate Development,55.46,58.25,46.95,56.49,65.33,,4.6,7.6,7,,,Bajaj Finserv Ltd.,55.18
-Petróleo Brasileiro SA,South America,Brazil,Energy Minerals,Integrated Oil,58.57,58.27,56.38,62.53,57.7,,7.8,8.7,0.4,,,Indian Oil Corp. Ltd.,68.01
-"SDIC Power Holdings Co., Ltd.",Asia,China,Utilities,Electric Utilities,52.52,59.79,47.98,45.5,61.35,,2.4,4.3,0.5,,,Eicher Motors Ltd.,57.46
-"Shanghai Pharmaceuticals Holding Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,50.36,58.02,43.65,47.8,57.26,,4.3,6.7,0.2,,,"China Zheshang Bank Co., Ltd.",62.87
-"Yankuang Energy Group Co., Ltd.",Asia,China,Energy Minerals,Coal,52.78,57.71,47.68,49.99,58.24,,5.6,4.6,0.8,,,"Ping An Bank Co., Ltd.",59.21
-Asian Paints Ltd.,Asia,India,Process Industries,Industrial Specialties,60.59,64.66,52.5,60.18,58.74,,7.6,8.7,2.5,,,Inner Mongolia Baotou Steel Union Co. Ltd.,52.88
-"China Galaxy Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.88,58.75,49.76,42.77,57.89,,4.2,2.3,0.1,,,"Industrial Bank Co., Ltd.",62.11
-"Shenzhen Transsion Holding Co., Ltd.",Asia,China,Communications,Major Telecommunications,46.81,48.29,42.71,47.73,57.35,,3.5,6.3,3.7,,,"Yunnan Baiyao Group Co., Ltd.",55.79
-China International Capital Corp. Ltd.,Asia,China,Finance,Investment Banks/Brokers,46.8,48.73,43.15,48.69,61.8,,4.2,2.1,4.6,,,"New China Life Insurance Co., Ltd.",45.84
-China Railway Signal & Communication Corp. Ltd.,Asia,China,Electronic Technology,Electronic Equipment/Instruments,48.38,48.55,45.79,49.85,61.32,,4.6,4.6,2.3,,,LTIMindtree Ltd.,63.22
-Nestlé India Ltd.,Asia,India,Consumer Non-Durables,Food: Major Diversified,50.71,49.86,48.9,52.32,58.78,,6.5,3.6,6.3,,,"Bank of Shanghai Co., Ltd.",61.46
-Oil & Natural Gas Corp. Ltd.,Asia,India,Energy Minerals,Oil Refining/Marketing,55.92,56.31,57.1,53.38,63.4,,7.5,3.5,0.6,,,China Petroleum & Chemical Corp.,57.91
-Tech Mahindra Ltd.,Asia,India,Technology Services,Information Technology Services,60.87,63.81,61.37,58.35,66.21,,7.8,2.3,5.3,,,Ambuja Cements Ltd.,59.4
-"China Zheshang Bank Co., Ltd.",Asia,China,Finance,Major Banks,49.35,52.24,49.08,48.21,62.87,,4.2,6.4,0.2,,,Meituan,55.9
-ICICI Bank Ltd.,Asia,India,Finance,Regional Banks,56.86,68.42,57.72,50.97,55.06,,6.3,7.5,0.4,,,China United Network Communications Ltd.,66.03
-"Wuxi Biologics (Cayman), Inc.",Asia,China,Health Technology,Biotechnology,53.34,55.05,52.95,52.99,64.17,,5.1,7.4,0.7,,,China Railway Signal & Communication Corp. Ltd.,61.32
-Novolipetsk Steel,Europe,Russian Federation,Non-Energy Minerals,Steel,59.33,62.51,54.42,57.91,72.34,,8.3,3.7,0.2,,,WEG SA,64.84
-"Chongqing Zhifei Biological Products Co., Ltd.",Asia,China,Health Technology,Biotechnology,47.21,51.13,43.17,47.53,59.43,,5.2,2.4,4.7,,,"LONGi Green Energy Technology Co., Ltd.",67.73
-"Rongsheng Petrochemical Co., Ltd.",Asia,China,Distribution Services,Wholesale Distributors,52.53,61.21,39.96,47.4,62.02,,6.3,2.6,1.2,,,"Anhui Conch Cement Co., Ltd.",61.58
-Havells India Ltd.,Asia,India,Producer Manufacturing,Electrical Products,59.81,60.24,56.56,61.9,63.76,,5.9,2.4,3.4,,,"Beijing-Shanghai High-Speed Railway Co., Ltd.",48.27
-China Tourism Group Duty Free Corp. Ltd.,Asia,China,Retail Trade,Discount Stores,42.55,46.12,43,41.05,60.16,,3.1,4.3,2.6,,,Metallurgical Corp. of China Ltd.,61.12
-"Tata Power Co., Ltd.",Asia,India,Utilities,Electric Utilities,59.75,59.32,62.93,56.62,67.69,,7.9,5.4,3.7,,,Titan Co. Ltd.,62.34
-"Jiangsu Yanghe Brewery Joint-Stock Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,45.01,46.12,43.4,44.04,59.48,,4.1,3.2,0.2,,,Asian Paints Ltd.,58.74
-Shenzhou International Group Holdings Ltd.,Asia,China,Consumer Non-Durables,Apparel/Footwear,49.01,55.01,48.43,44.29,62.32,,2.5,2.5,0.3,,,"KE Holdings, Inc.",52.58
-"Ningxia Baofeng Energy Group Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,45.29,46.03,49.65,39.89,63.67,,4.2,6.4,3.7,,,Havells India Ltd.,63.76
-"AVIC Jonhon Optronic Technology Co., Ltd.",Asia,China,Electronic Technology,Aerospace & Defense,47.76,53.16,39.8,44.66,63.29,,3.2,2.1,2.7,,,CRRC Corp. Ltd.,64.22
-"CGN Power Co., Ltd.",Asia,China,Utilities,Electric Utilities,51.04,53.42,45.22,53.47,60.58,,5.7,5.7,0.1,,,"Jiangxi Copper Co., Ltd.",52.2
-"XPeng, Inc.",Asia,China,Consumer Durables,Motor Vehicles,53.73,58.58,49.8,49.72,57.42,,5.8,2.4,3.6,,,CMOC Group Ltd.,65.68
-"Chongqing Rural Commercial Bank Co., Ltd.",Asia,China,Finance,Regional Banks,45.84,53.52,49.11,40.11,59.71,,6.2,6.3,5.2,,,China Communications Construction Co. Ltd.,61.46
-"Focus Media Information Technology Co., Ltd.",Asia,China,Producer Manufacturing,Miscellaneous Manufacturing,41.83,44.69,41.85,37.64,47.66,,3.5,2.4,4.1,,,Klabin SA,64.23
-"JD.com, Inc.",Asia,China,Retail Trade,Internet Retail,56.58,56.81,49.62,58.01,53.84,,5.9,4.7,4.2,,,"Yankuang Energy Group Co., Ltd.",58.24
-WEG SA,South America,Brazil,Producer Manufacturing,Electrical Products,52.3,51.72,51.6,53.76,64.84,,5.6,5.7,5.2,,,"Jiangsu Hengli Hydraulic Co., Ltd.",52.71
-Centrais Elétricas Brasileiras SA,South America,Brazil,Utilities,Electric Utilities,58.59,59.09,59.03,57.3,66.83,,8.1,8.6,5.7,,,Itausa SA,62.21
-"Orient Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.27,53.46,45.13,47.95,62.01,,3.2,2.4,3.2,,,Grasim Industries Ltd.,62.05
-"Hengli Petrochemical Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,52.81,55.97,47.73,51.41,61.09,,4.6,7.5,4.7,,,"Shanghai Baosight Software Co., Ltd.",53.18
-"Beijing TongRenTang Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,47.69,48.42,42.89,49.19,55.19,,4.1,3.2,4.3,,,Sun Pharmaceutical Industries Ltd.,57.83
-Banco Bradesco SA,South America,Brazil,Finance,Major Banks,56.25,64.65,51.18,55.82,69.2,,9.4,7.8,2,,,"China National Nuclear Power Co., Ltd.",66.23
-China Railway Construction Corp. Ltd.,Asia,China,Industrial Services,Engineering & Construction,46.8,49.9,43.68,45.09,66,,5.6,3.5,4.7,,,China Oilfield Services Ltd.,58.98
-"Postal Savings Bank of China Co., Ltd.",Asia,China,Finance,Major Banks,49.26,59.5,50.25,43.88,58.55,,2.4,7.4,2.4,,,"Aier Eye Hospital Group Co., Ltd.",58.08
-"China Shenhua Energy Co., Ltd.",Asia,China,Energy Minerals,Coal,55.09,56.53,51.44,56.09,67.64,,5.2,1.3,2.4,,,United Co. RUSAL International PJSC,71.2
-Punjab National Bank,Asia,India,Finance,Major Banks,45.79,43.59,44.83,48.54,44.12,,4.2,4.7,1,,,"Zhangzhou Pientzehuang Pharmaceutical Co., Ltd.",56.85
-Adani Enterprises Ltd.,Asia,India,Distribution Services,Wholesale Distributors,59.8,63.17,49.38,63.7,57.51,,5.9,9.7,3.6,,,Trip.com Group Ltd.,43.06
-Shree Cement Ltd.,Asia,India,Non-Energy Minerals,Construction Materials,63.14,65.54,60.27,59.88,60.2,,7.9,5.4,2.7,,,"Haier Smart Home Co., Ltd.",69.83
-"Baoshan Iron & Steel Co., Ltd.",Asia,China,Non-Energy Minerals,Steel,59.54,62.22,56.44,57.05,67.84,,4.5,2.5,4.6,,,Bharat Electronics Ltd.,61.76
-China Energy Engineering Corp. Ltd.,Asia,China,Industrial Services,Engineering & Construction,48,52.01,44.23,45.58,59.47,,2.5,7.8,7.2,,,Ambev SA,58.97
-"Power Construction Corporation of China, Ltd.",Asia,China,Industrial Services,Engineering & Construction,47.9,49.67,42.73,49.41,63.2,,2.3,4.3,4.6,,,"Huaneng Power International, Inc.",61.79
-"Bank of Beijing Co., Ltd.",Asia,China,Finance,Major Banks,47.39,49.93,46.16,47.06,50.92,,4.2,2.4,3.7,,,"Weichai Power Co., Ltd.",63.5
-"East Money Information Co., Ltd.",Asia,China,Technology Services,Internet Software/Services,44.61,42.12,41.57,48.44,40.71,,4.6,6.4,0.5,,,DLF Ltd.,66.1
-"Zijin Mining Group Co., Ltd.",Asia,China,Non-Energy Minerals,Precious Metals,58.71,62.59,50.4,58.87,61.26,,2.6,6.4,0.2,,,"Shenzhen Inovance Technology Co., Ltd.",66.5
-"Advanced Micro Fabrication Equipment, Inc. China",Asia,China,Producer Manufacturing,Industrial Machinery,48.16,48.23,49.2,47.32,59.46,,2.4,3.4,0.7,,,Companhia Energética de Minas Gerais SA,54.57
-Cipla Ltd.,Asia,India,Health Technology,Pharmaceuticals: Other,55.61,56.5,51.75,56.73,62.59,,4.8,6.4,0.2,,,UltraTech Cement Ltd.,63
-"Bank of Communications Co., Ltd.",Asia,China,Finance,Regional Banks,51.95,63.33,47.09,50.01,56.87,,4.6,4.6,7.5,,,Reliance Industries Ltd.,67.89
-ANTA Sports Products Ltd.,Asia,China,Consumer Non-Durables,Apparel/Footwear,54.32,56.21,48.95,55.5,57.95,,4.8,2.3,3.7,,,COSCO SHIPPING Holdings Co. Ltd.,66.09
-"XP, Inc.",South America,Brazil,Technology Services,Internet Software/Services,45.98,44.27,48.93,44.77,60.96,,5.3,6.4,0.9,,,"IMEIK Technology Development Co., Ltd.",58.37
-"Jiangxi Copper Co., Ltd.",Asia,China,Non-Energy Minerals,Other Metals/Minerals,53.53,58.97,45.69,50.55,52.2,,6.7,3.7,4.7,,,"Zhongji Innolight Co., Ltd.",57.41
-"Jiangsu Hengrui Pharmaceuticals Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,50.09,50.28,48.75,50.52,59.24,,3.5,3.7,0.2,,,"China Vanke Co., Ltd.",65.33
-"LONGi Green Energy Technology Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,51.68,52.38,49.62,51.72,67.73,,4.2,5.4,4.6,,,"GF Securities Co., Ltd.",62.99
-"Gree Electric Appliances, Inc. of Zhuhai",Asia,China,Producer Manufacturing,Industrial Machinery,46.36,49.88,43.54,42.23,50,,2.8,3.1,8.3,,,InterGlobe Aviation Ltd.,58.97
-"Guotai Junan Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,43.46,43.06,45.21,42.27,62.06,,3.1,3.8,9.2,,,"Zhuzhou CRRC Times Electric Co., Ltd.",58.58
-Sberbank Russia PJSC,Europe,Russian Federation,Finance,Regional Banks,47.19,55.85,47.8,42.81,55.11,,3.5,4.6,6.4,,,"Huatai Securities Co., Ltd.",65.89
-Metallurgical Corp. of China Ltd.,Asia,China,Industrial Services,Engineering & Construction,51.69,52.96,48.93,52.08,61.12,,5.7,2.3,7.2,,,"Shandong Gold Mining Co., Ltd.",57.73
-China Communications Construction Co. Ltd.,Asia,China,Industrial Services,Engineering & Construction,55.42,55.2,51.38,58.66,61.46,,6.3,5.2,4.7,,,ZTE Corp.,66.62
-"Hangzhou Tigermed Consulting Co., Ltd.",Asia,China,Commercial Services,Miscellaneous Commercial Services,51.83,48.41,58.79,50.33,62.16,,5.1,3.7,5.4,,,China CITIC Bank Corp. Ltd.,53.92
-Dongfang Electric Corp. Ltd.,Asia,China,Producer Manufacturing,Electrical Products,47.01,49.34,45.78,43.69,54.8,,3.5,2.4,6.2,,,"East Money Information Co., Ltd.",40.71
-"Shenzhen Inovance Technology Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,47.29,46.22,46.96,49.63,66.5,,5.2,6.4,3.7,,,Petróleo Brasileiro SA,57.7
-"Huizhou Desay SV Automotive Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,43.04,45.04,42.76,41.15,61.42,,4.6,2.7,5.9,,,"CGN Power Co., Ltd.",60.58
-Tianqi Lithium Corp.,Asia,China,Process Industries,Chemicals: Specialty,51.86,51.79,57.5,46.87,63.67,,5.7,4.2,2.4,,,"Hangzhou Hikvision Digital Technology Co., Ltd.",65.41
-Wipro Ltd.,Asia,India,Technology Services,Information Technology Services,57.38,64.69,58.02,51.51,62.92,,4.8,7.8,7.2,,,"Chongqing Zhifei Biological Products Co., Ltd.",59.43
-"B3 SA-Brasil, Bolsa, Balcão",South America,Brazil,Finance,Investment Managers,52.46,52.19,51.93,53.17,62.54,,5.2,3.5,4.5,,,"Shanghai International Airport Co., Ltd.",49.41
-"China Shipbuilding Industry Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,42.98,44.77,41.65,40.9,58.62,,3.2,4.2,7.2,,,Cholamandalam Investment & Finance Co. Ltd.,48.96
-Divi's Laboratories Ltd.,Asia,India,Health Technology,Pharmaceuticals: Major,52.79,61.03,51.33,50.95,58.72,,4.7,1.4,4.5,,,"Gree Electric Appliances, Inc. of Zhuhai",50
-"Foxconn Industrial Internet Co., Ltd.",Asia,China,Electronic Technology,Telecommunications Equipment,52.72,59.07,57.46,43.37,68.27,,7.5,6.5,7.3,,,China Southern Airlines Co. Ltd.,61.93
-"Shanxi Xinghuacun Fen Wine Factory Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,44.09,44.98,43.95,42.75,51.77,,3.6,3.2,5.8,,,"AECC Aviation Power Co., Ltd.",55
-"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,45.26,46.99,45.94,41.88,48.56,,2.3,6.8,3.6,,,"Anhui Gujing Distillery Co., Ltd.",55.9
-Huadian Power International Corp. Ltd.,Asia,China,Utilities,Electric Utilities,54.98,60.77,49.04,51.91,61.16,,5.8,5.7,5,,,HDFC Life Insurance Co. Ltd.,54.95
-Avenue Supermarts Ltd.,Asia,India,Retail Trade,Specialty Stores,47.96,49.9,44.84,47.24,53.35,,3.2,3.9,3.7,,,Adani Green Energy Ltd.,61.95
-"Guosen Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,44.52,44.46,44.76,44.36,60.82,,4.5,2.3,8.2,,,Longfor Group Holdings Ltd.,62.71
-Coal India Ltd.,Asia,India,Energy Minerals,Coal,58.18,63.1,55.45,53.43,56.44,,7.11,5.1,4.5,,,"Yihai Kerry Arawana Holdings Co., Ltd.",64.65
-Bajaj Auto Ltd.,Asia,India,Consumer Durables,Motor Vehicles,51.73,53.37,45.6,53.31,54.21,,6.4,5.3,8.2,,,Tianqi Lithium Corp.,63.67
-"Aier Eye Hospital Group Co., Ltd.",Asia,China,Health Services,Medical/Nursing Services,47.59,48.93,46.85,47.21,58.08,,2.3,7.1,0.5,,,Dr. Reddy's Laboratories Ltd.,66.09
-JSW Steel Ltd.,Asia,India,Non-Energy Minerals,Steel,63.32,71.92,51.48,57.72,61.02,,7.2,8.1,0.3,,,China International Capital Corp. Ltd.,61.8
-"WuXi AppTec Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,55.16,59.7,54.67,54.03,66.17,,3.5,5.2,0.8,,,Aluminum Corp. of China Ltd.,62.86
-Cholamandalam Investment & Finance Co. Ltd.,Asia,India,Finance,Finance/Rental/Leasing,49.08,51.54,46.64,49.6,48.96,,2.5,7.2,0.4,,,Power Finance Corp. Ltd.,51.42
-SAIC Motor Corp. Ltd.,Asia,China,Consumer Durables,Motor Vehicles,44.63,46.68,43.13,42.85,63.34,,5.8,2.7,5.2,,,Novolipetsk Steel,72.34
-PhosAgro PJSC,Europe,Russian Federation,Process Industries,Chemicals: Agricultural,57.18,60.02,54.57,54.12,67.13,,8.1,2.7,5.4,,,"Postal Savings Bank of China Co., Ltd.",58.55
-"Shanghai International Port (Group) Co., Ltd.",Asia,China,Transportation,Other Transportation,46.69,45.23,44.21,52.53,61.31,,3.1,3.5,3.5,,,"Li Auto, Inc.",42.96
-Vale SA,South America,Brazil,Non-Energy Minerals,Steel,64.03,70.93,59,56.13,56.01,,10.2,6.8,6.5,,,"Muyuan Foods Co., Ltd.",65.96
-ZTE Corp.,Asia,China,Electronic Technology,Telecommunications Equipment,52.74,53.34,48.84,54.44,66.62,,2.4,1.3,1.2,,,"S.F. Holding Co., Ltd.",65.2
-Kotak Mahindra Bank Ltd.,Asia,India,Finance,Major Banks,60.96,71.28,62.02,55.5,60.9,,7.2,4.6,3.5,,,"Focus Media Information Technology Co., Ltd.",47.66
-"New China Life Insurance Co., Ltd.",Asia,China,Finance,Multi-Line Insurance,47.35,51.88,42.23,48,45.84,,2.4,1.3,2.4,,,"BYD Electronic (International) Co., Ltd.",54.08
-"China Northern Rare Earth (Group) High-Tech Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,43.2,43.86,40.48,44.33,59.02,,5.3,8.6,6.5,,,HDFC Bank Ltd.,52.79
-"Daqin Railway Co., Ltd.",Asia,China,Transportation,Railroads,43.49,45.87,44.56,38.28,46.23,,2.5,3.6,3.4,,,"Inner Mongolia Yili Industrial Group Co., Ltd.",68.55
-"Zhangzhou Pientzehuang Pharmaceutical Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,47.67,53.34,44.03,47.35,56.85,,4.2,3.2,4.2,,,"Iflytek Co., Ltd.",46.88
-Kuaishou Technology,Asia,China,Technology Services,Information Technology Services,41.75,48.81,42.47,36.13,56.71,,1.4,5.7,2.4,,,ANTA Sports Products Ltd.,57.95
-"Anhui Gujing Distillery Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,43.6,44.72,43.73,41.78,55.9,,2.5,2.4,4.3,,,"China Minsheng Banking Corp., Ltd.",57.45
-"Gongniu Group Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,46.59,48.19,46.08,44.01,57.28,,4.2,6.4,2.4,,,Punjab National Bank,44.12
-"Guangzhou Automobile Group Co., Ltd.",Asia,China,Consumer Durables,Motor Vehicles,48.61,52.71,43.33,46.44,63.27,,2.5,2.8,5.3,,,Shree Cement Ltd.,60.2
-China Tower Corp. Ltd.,Asia,China,Communications,Specialty Telecommunications,53.6,57.38,46.02,55.45,56.68,,6.3,1.2,3.4,,,"Gongniu Group Co., Ltd.",57.28
-"Hainan Airlines Holding Co., Ltd.",Asia,China,Transportation,Airlines,44.99,43.8,45.57,45.94,49.26,,2.6,4.2,5.2,,,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",67.12
-"Didi Global, Inc.",Asia,China,Transportation,Other Transportation,42.61,42.19,44.17,42.13,42.62,,1.3,4.6,3.5,,,Larsen & Toubro Ltd.,64.27
-"Zhuzhou CRRC Times Electric Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,45.92,47.43,45.02,43.99,58.58,,2.8,1.2,3.1,,,Sberbank Russia PJSC,55.11
-Klabin SA,South America,Brazil,Non-Energy Minerals,Forest Products,61.55,65.39,54.96,57.18,64.23,,6.1,6.4,3.5,,,"Guosen Securities Co., Ltd.",60.82
-"Huadong Medicine Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,49.63,48.28,43.65,52.15,56.69,,3.1,3,3.5,,,Banco Bradesco SA,69.2
-"NIO, Inc.",Asia,China,Consumer Durables,Motor Vehicles,53.47,56.64,50.99,50.79,44.7,,3.6,4.2,3.2,,,"AVIC Shenyang Aircraft Co., Ltd.",47.38
-Trip.com Group Ltd.,Asia,China,Consumer Services,Other Consumer Services,51.82,47.23,50.75,55.78,43.06,,3.1,7.8,5.3,,,"Ningxia Baofeng Energy Group Co., Ltd.",63.67
-"Foshan Haitian Flavouring & Food Co., Ltd.",Asia,China,Consumer Non-Durables,Food: Specialty/Candy,48.01,49.88,46.39,46.41,58.95,,3.1,1.2,2.3,,,"CSC Financial Co., Ltd.",63.59
-InterGlobe Aviation Ltd.,Asia,India,Transportation,Airlines,51.77,52.91,53.19,48.41,58.97,,5.3,3.2,3.2,,,Transneft PJSC,52.93
-Adani Energy Solutions Ltd.,Asia,India,Utilities,Electric Utilities,60.27,62.78,61.01,55.33,58.7,,9.6,6.4,5.4,,,"Bank of Jiangsu Co., Ltd.",53.71
-"Fuyao Glass Industry Group Co., Ltd.",Asia,China,Consumer Durables,Home Furnishings,56.82,62.72,46.02,55.12,62.44,,2.4,6.4,4.3,,,"Hangzhou Tigermed Consulting Co., Ltd.",62.16
-"GF Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,44.55,50.87,48.38,39.06,62.99,,1.6,2.1,1.2,,,Chongqing Changan Automobile Co. Ltd.,56.17
-Bharti Airtel Ltd.,Asia,India,Communications,Wireless Telecommunications,58.53,55.93,60.16,59.96,61.83,,4.2,5.6,5.4,,,"Hengli Petrochemical Co., Ltd.",61.09
-"Guangzhou Baiyunshan Pharmaceutical Holdings Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,46.26,49.86,46.32,45.21,60.46,,1.3,2.1,2.3,,,"China Shenhua Energy Co., Ltd.",67.64
-Godrej Consumer Products Ltd.,Asia,India,Consumer Non-Durables,Household/Personal Care,53.22,52.75,49.13,55.81,69.18,,5.7,6.8,4.6,,,Companhia Paranaense de Energia,54.2
+Company,Region,Country,Sector,Industry,ESG,E,G,S,GC,ROA 2022,ROA 2021,ROA 2020
+Mahindra & Mahindra Ltd.,Asia,India,Consumer Durables,Motor Vehicles,63.2,64.72,66.12,59.4,69.23,8.6,6.24,6.5
+Gerdau SA,South America,Brazil,Non-Energy Minerals,Steel,59.38,65.18,50.24,57.03,62.92,3.7,4.2,3.4
+"CSC Financial Co., Ltd.",Asia,China,Finance,Investment Managers,46.97,45.88,47.25,47.34,63.59,1.25,2.1,6.3
+MMC Norilsk Nickel PJSC,Europe,Russian Federation,Non-Energy Minerals,Other Metals/Minerals,63.34,66.21,62.05,59.37,61.31,6.9,3.6,2.4
+"Yunnan Baiyao Group Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,45.18,48.23,42.97,45.09,55.79,4.2,3.2,6.7
+Bajaj Finserv Ltd.,Asia,India,Finance,Life/Health Insurance,47.49,50.63,44.19,51.03,55.18,2.9,4.4,4.3
+Polyus PJSC,Europe,Russian Federation,Non-Energy Minerals,Precious Metals,58.64,56.82,59.3,61.26,59.71,3.2,2.1,5
+"Wuliangye Yibin Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,47.6,49.11,43.19,47.3,62.44,3.5,2.3,5.2
+Larsen & Toubro Ltd.,Asia,India,Industrial Services,Engineering & Construction,60.4,60.83,61.25,59.11,64.27,6.43,3.4,6.3
+Sun Pharmaceutical Industries Ltd.,Asia,India,Health Technology,Pharmaceuticals: Major,53.79,58.41,50.04,53.82,57.83,3.8,1.3,1.4
+H World Group Ltd.,Asia,China,Consumer Services,Hotels/Resorts/Cruise lines,47.38,46.47,48.4,47.85,54.74,3.5,1.3,6.7
+"Jiangsu King's Luck Brewery Joint-stock Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,44.67,44.36,43.7,45.61,54.55,2.1,2.4,3.2
+"China National Nuclear Power Co., Ltd.",Asia,China,Utilities,Electric Utilities,46.65,50.84,41.45,45.05,66.23,3.5,2.1,5.2
+"Sany Heavy Industry Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,50.27,49.85,43.59,55.49,62.13,5.3,2.8,6.2
+"Li Auto, Inc.",Asia,China,Consumer Durables,Motor Vehicles,49.96,50.11,52.44,48.24,42.96,2.3,2.6,1.3
+"COSCO SHIPPING Energy Transportation Co., Ltd.",Asia,China,Transportation,Marine Shipping,52.68,59.53,46,48.09,62.35,3.2,2.4,4.6
+Pidilite Industries Ltd.,Asia,India,Process Industries,Industrial Specialties,54.89,64.58,41.87,48.24,58.49,4.3,2.8,3.2
+"Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",Asia,China,Health Technology,Medical Specialties,47.72,50.16,47.22,46.74,67.12,1.2,1.2,4.6
+"Zhongji Innolight Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,47.04,47.24,42.85,49.54,57.41,3.4,1.4,3.2
+"Zoomlion Heavy Industry Science & Technology Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,48.17,49.56,46.89,46.71,54.86,2.2,2.8,1.3
+Hua Hong Semiconductor Ltd.,Asia,China,Electronic Technology,Semiconductors,52.35,61.45,47.6,39.92,66.3,5.6,8.6,5.1
+"NetEase, Inc.",Asia,China,Technology Services,Packaged Software,49.96,48.3,47.52,52.78,54.06,2.4,2.1,0.1
+Jiangsu Expressway Co. Ltd.,Asia,China,Transportation,Other Transportation,51.58,56.78,49.78,46.18,51.96,2.8,4.3,2.3
+Grasim Industries Ltd.,Asia,India,Non-Energy Minerals,Construction Materials,57.61,60.44,51.06,57.66,62.05,4.8,2.5,5.1
+"Contemporary Amperex Technology Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,52.17,53.05,48.08,53.14,57.32,3.2,6.3,6.3
+China Telecom Corp. Ltd.,Asia,China,Communications,Wireless Telecommunications,52.69,56.24,52.74,49.01,62.07,4.5,2.3,2
+Siemens Ltd.,Asia,India,Producer Manufacturing,Electrical Products,59.64,65.02,56.51,52.26,69.97,6.8,7.4,2.5
+"Inner Mongolia Yili Industrial Group Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,48.67,47.49,46.16,51.22,68.55,3.2,2.1,3.1
+"Huatai Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.09,60.77,48.85,40.52,65.89,2.3,4.2,5.2
+"Luzhou Laojiao Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,45.2,45.08,44.64,45.66,55.14,1.3,5.8,5.6
+"Yum China Holdings, Inc.",Asia,China,Consumer Services,Restaurants,51.64,51.36,48.45,53.04,70.27,6.7,3.2,2.3
+Companhia Energética de Minas Gerais SA,South America,Brazil,Utilities,Electric Utilities,58.72,64.7,55.64,52.23,54.57,7.8,5.7,5.3
+Itausa SA,South America,Brazil,Finance,Financial Conglomerates,48.27,42.83,48.72,50.46,62.21,7.5,2.4,3.2
+Itaú Unibanco Holding SA,South America,Brazil,Finance,Major Banks,58.24,63.36,59.52,55.03,68.01,12.4,4.2,4.2
+Dr. Reddy's Laboratories Ltd.,Asia,India,Health Technology,Pharmaceuticals: Major,53.17,61.98,52.28,50.98,66.09,5.4,4.5,1.24
+Infosys Ltd.,Asia,India,Technology Services,Information Technology Services,59.88,56.88,66.77,57.64,70.44,7.8,6.8,5.3
+"KE Holdings, Inc.",Asia,China,Finance,Real Estate Development,46.64,47.25,44.22,48.35,52.58,3.4,2.4,2.5
+"Great Wall Motor Co., Ltd.",Asia,China,Consumer Durables,Motor Vehicles,49.67,55.43,47.19,43.57,55.73,5.7,7.2,2.5
+"EVE Energy Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,47.34,50.82,41.84,43.45,65.51,3.2,7.1,6.2
+China Longyuan Power Group Corp. Ltd.,Asia,China,Utilities,Alternative Power Generation,48.5,49.75,46.78,48.3,54.93,4.3,3.7,38.1
+Tata Steel Ltd.,Asia,India,Non-Energy Minerals,Steel,62.12,64.93,56.79,62.08,72.45,12.3,12.9,3
+COSCO SHIPPING Holdings Co. Ltd.,Asia,China,Transportation,Marine Shipping,51.3,57.33,46.44,46.01,66.09,3.2,1.4,2.5
+Semiconductor Manufacturing International Corp.,Asia,China,Electronic Technology,Semiconductors,53.69,58.62,52.64,46.05,60.59,5.4,3.2,4.2
+Eicher Motors Ltd.,Asia,India,Consumer Durables,Motor Vehicles,55.46,53.8,57.11,57.11,57.46,5.7,6.2,5.2
+"Tsingtao Brewery Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,52.32,54.67,46.33,51.47,53.67,3.2,6.1,7.5
+"Ningbo Tuopu Group Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,43.92,46.02,40.65,42.73,46.81,6.5,4.2,3.2
+"China Minsheng Banking Corp., Ltd.",Asia,China,Finance,Regional Banks,48.68,52.57,49.67,46.21,57.45,7.3,5.3,4.6
+China Everbright Bank Co. Ltd.,Asia,China,Finance,Major Banks,51.49,61.15,46.01,50.75,58.52,8.7,6.7,4.1
+"Shanghai Pudong Development Bank Co., Ltd.",Asia,China,Finance,Regional Banks,54.29,66.08,48.62,52.69,58.32,6.4,2.4,2.5
+Severstal PAO,Europe,Russian Federation,Non-Energy Minerals,Steel,56.58,63.89,46.5,51.84,65.31,5.4,6.8,6.2
+"Tongwei Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,51.9,56.37,49.21,47.05,71.92,3.4,5.6,7.1
+"Poly Developments & Holdings Group Co., Ltd.",Asia,China,Finance,Real Estate Development,47.96,49.27,42.1,50.02,61.95,2.3,8.6,3.5
+"Beijing-Shanghai High-Speed Railway Co., Ltd.",Asia,China,Transportation,Railroads,44.02,43.4,49.61,38.1,48.27,4.2,5.4,2.6
+Hindalco Industries Ltd.,Asia,India,Non-Energy Minerals,Other Metals/Minerals,65.29,71.65,60.91,57.76,65.82,6.4,7.6,3.1
+"JD Health International, Inc.",Asia,China,Health Services,Medical/Nursing Services,50.75,49.49,48.72,51.9,63.1,4.3,9.6,5.2
+"Haitong Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.23,59.29,50.61,40.23,59.26,2.3,3.5,2.4
+"Henan Shuanghui Investment & Development Co., Ltd.",Asia,China,Consumer Non-Durables,Food: Meat/Fish/Dairy,49.24,51.73,48.11,46.1,61.23,5.3,7.6,6.5
+Companhia Paranaense de Energia,South America,Brazil,Utilities,Electric Utilities,56.66,55.16,60.39,55.07,54.2,6.8,3.3,3.1
+"TBEA Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,48.58,53.52,44.16,43.17,60.41,4.3,5.8,4.6
+China Petroleum & Chemical Corp.,Asia,China,Energy Minerals,Integrated Oil,57.85,65.42,49.04,58.81,57.91,6.9,9.8,3.2
+"XCMG Construction Machinery Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,44.06,43.37,41.37,47.03,51.76,5.3,6.7,5.6
+"Hithink RoyalFlush Information Network Co., Ltd.",Asia,China,Technology Services,Information Technology Services,40.51,43.18,40.47,39.55,43.44,2.1,8.9,2.4
+"Muyuan Foods Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,51.07,52.65,44.72,51.05,65.96,3.3,7.6,5.7
+"ZTO Express (Cayman), Inc.",Asia,China,Transportation,Air Freight/Couriers,52.4,58,46.39,51,53.56,4.3,8.6,1.3
+Adani Ports & Special Economic Zone Ltd.,Asia,India,Transportation,Other Transportation,60.1,61.14,61.2,56.46,62.95,7.6,10.2,2.4
+"Bank of Shanghai Co., Ltd.",Asia,China,Finance,Regional Banks,42.49,41.99,43.32,42.16,61.46,4.3,7.6,7.2
+"Industrial Bank Co., Ltd.",Asia,China,Finance,Regional Banks,46.24,51.36,45.14,44.62,62.11,6.7,4.3,4
+Air China Ltd.,Asia,China,Transportation,Airlines,47.53,51.93,44.58,45,61.21,7.6,7.9,5.2
+Surgutneftegas PJSC,Europe,Russian Federation,Energy Minerals,Integrated Oil,51.99,56,51.59,45.75,47.8,5.4,4.6,1.3
+"Anhui Conch Cement Co., Ltd.",Asia,China,Non-Energy Minerals,Construction Materials,52.48,57.85,45.69,45.68,61.58,3.2,2.3,0.2
+"Bank of Jiangsu Co., Ltd.",Asia,China,Finance,Regional Banks,42.85,43.59,44.3,41.53,53.71,4.5,5.6,4.2
+Gazprom Neft PJSC,Europe,Russian Federation,Energy Minerals,Oil Refining/Marketing,62.96,68.79,60.96,55.51,63.73,13.2,4.6,5.2
+"Shanghai Baosight Software Co., Ltd.",Asia,China,Technology Services,Packaged Software,39.5,43.37,43.79,33.83,53.18,4.1,3.6,4.2
+"Hua Xia Bank Co., Ltd.",Asia,China,Finance,Major Banks,51.68,52.77,46.93,54.38,55.98,3.5,3.7,3.1
+Ambev SA,South America,Brazil,Consumer Non-Durables,Beverages: Alcoholic,58.88,60.13,56.52,58.04,58.97,3.2,2.5,2.3
+"Yihai Kerry Arawana Holdings Co., Ltd.",Asia,China,Consumer Non-Durables,Food: Major Diversified,52.18,52.37,54.14,51.48,64.65,4.5,6.8,4.2
+Banco do Brasil SA,South America,Brazil,Finance,Major Banks,52.81,52.34,53.68,52.45,66.33,3.2,3.2,3.1
+"JA Solar Technology Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,47.6,49.7,46.66,44.73,66.84,4.4,7.8,2.5
+CRRC Corp. Ltd.,Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,49.53,53.67,42.91,47.07,64.22,3.2,4.8,1.3
+"BOE Technology Group Co., Ltd.",Asia,China,Electronic Technology,Electronic Equipment/Instruments,45.42,46.96,45.14,44.01,67.51,2.1,2.6,5.1
+Britannia Industries Ltd.,Asia,India,Consumer Non-Durables,Food: Specialty/Candy,53.8,53,51.65,55.71,57.66,5.6,3.8,3.4
+"China Pacific Insurance (Group) Co., Ltd.",Asia,China,Finance,Multi-Line Insurance,51.92,67.37,44.84,47.79,49.98,4.3,8.2,1.2
+"S.F. Holding Co., Ltd.",Asia,China,Transportation,Air Freight/Couriers,49.65,49.24,45.16,56.22,65.2,2.37,2.7,3.5
+"Shandong Gold Mining Co., Ltd.",Asia,China,Non-Energy Minerals,Precious Metals,51.07,55.02,44.32,49.77,57.73,4.7,4.2,2.4
+Telefonica Brasil SA,South America,Brazil,Communications,Specialty Telecommunications,56.78,66.43,47.83,53.65,66.56,5.2,6.7,6.1
+"Everbright Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,44,41.59,47.2,42.73,59,3.8,4.5,3.5
+"AVIC Shenyang Aircraft Co., Ltd.",Asia,China,Electronic Technology,Aerospace & Defense,43.22,47.85,40.77,38.6,47.38,3.9,3.7,1.3
+"Shanghai Electric Group Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,53.4,56.16,49.21,51.9,65.13,5.3,4.7,2.3
+CMOC Group Ltd.,Asia,China,Distribution Services,Wholesale Distributors,60.71,64.54,52.7,60.7,65.68,6.4,8.6,4.3
+"Wanhua Chemical Group Co., Ltd.",Asia,China,Process Industries,Industrial Specialties,48.58,53.74,41.36,45.32,70.42,3.2,7.5,4.2
+"Ping An Bank Co., Ltd.",Asia,China,Finance,Major Banks,55.21,58.03,54.41,54.46,59.21,4.6,8.6,4.1
+China State Construction Engineering Corp. Ltd.,Asia,China,Industrial Services,Engineering & Construction,47.88,50.15,43.45,46.54,67.44,3.2,9.1,5.6
+HDFC Bank Ltd.,Asia,India,Finance,Regional Banks,55.79,67.46,58.58,43.71,52.79,4.4,5.4,4.2
+"Bank of Nanjing Co., Ltd.",Asia,China,Finance,Regional Banks,49.2,59.03,44.02,48.18,58.94,3.6,7.4,6.5
+"Nongfu Spring Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Non-Alcoholic,59.74,59.76,52.98,62.43,67.88,6.7,7.3,3.5
+"Sungrow Power Supply Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,53.74,55.11,46.77,54.91,69.96,4.3,2.4,2.3
+"Guangdong Haid Group Co., Ltd.",Asia,China,Process Industries,Agricultural Commodities/Milling,52.01,55.08,44.07,51.12,53.88,2.1,2.1,1.2
+"Citic Pacific Special Steel Group Co., Ltd.",Asia,China,Non-Energy Minerals,Steel,53.55,56.55,50.44,50.33,56.75,4.5,4.7,3.5
+Inner Mongolia Baotou Steel Union Co. Ltd.,Asia,China,Non-Energy Minerals,Steel,43.76,45.33,42.42,41.7,52.88,6.4,7.3,6.4
+"AECC Aviation Power Co., Ltd.",Asia,China,Electronic Technology,Aerospace & Defense,46.64,49.96,44.04,43.38,55,3.2,8.2,7.3
+"Flat Glass Group Co., Ltd.",Asia,China,Process Industries,Industrial Specialties,49.86,51.41,47.24,49.04,65.19,3.7,6.3,5.2
+Titan Co. Ltd.,Asia,India,Consumer Durables,Other Consumer Specialties,54.14,53.3,53.65,55.1,62.34,2.5,4.6,3.5
+Huaneng Lancang River Hydropower Inc.,Asia,China,Utilities,Electric Utilities,45.51,45.52,43.28,47.93,57.64,5.6,2.7,2.1
+"Li Ning Co., Ltd.",Asia,China,Consumer Non-Durables,Apparel/Footwear,51.34,51.1,55.8,49.25,62.46,13.5,7.2,7.5
+"Ganfeng Lithium Group Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,58.64,67.54,48.75,51.3,65.77,4.2,4.6,6.3
+Tata Consultancy Services Ltd.,Asia,India,Technology Services,Information Technology Services,52.51,54.34,52.39,51.23,65.18,4.6,2.8,2.4
+Haidilao International Holding Ltd.,Asia,China,Consumer Services,Restaurants,50.46,54.2,49.53,46.97,56,4.2,2.3,5.4
+"Hangzhou Hikvision Digital Technology Co., Ltd.",Asia,China,Electronic Technology,Telecommunications Equipment,48.59,47.69,47.68,50.05,65.41,1.5,8.6,3.2
+"BYD Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,47.96,47.49,45.6,50.02,53.3,3.2,8.4,6.5
+"Pharmaron Beijing Co., Ltd.",Asia,China,Commercial Services,Miscellaneous Commercial Services,49.76,52.75,47.77,49.62,63.83,5.7,9.1,7.5
+"Beijing Kingsoft Office Software, Inc.",Asia,China,Technology Services,Packaged Software,39.6,42.12,40.81,36.93,53.12,4.2,7.9,3.4
+"BYD Electronic (International) Co., Ltd.",Asia,China,Electronic Technology,Electronic Production Equipment,47.37,50.64,50.94,41.89,54.08,4.6,3.6,6.2
+"NARI Technology Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,49.2,50.08,45.43,50.88,62.72,3.2,6.8,3.4
+HCL Technologies Ltd.,Asia,India,Technology Services,Information Technology Services,50.98,55.22,52,47.17,64.9,4.5,4.3,3.2
+"Shanghai International Airport Co., Ltd.",Asia,China,Transportation,Other Transportation,41.13,43.33,41.06,40.35,49.41,3.1,3.1,4.3
+Transneft PJSC,Europe,Russian Federation,Industrial Services,Oil & Gas Pipelines,52.66,53.28,45.42,59.04,52.93,5.7,4.6,2.5
+Hindustan Unilever Ltd.,Asia,India,Consumer Non-Durables,Household/Personal Care,55.36,60.54,51.42,52.05,64.24,7.6,3.2,6.4
+Aluminum Corp. of China Ltd.,Asia,China,Distribution Services,Wholesale Distributors,52.6,59.21,42.56,49.4,62.86,3.2,6.8,6.1
+"CITIC Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,47.71,55.41,51.24,40.65,57.34,2.1,2.1,3.5
+Dabur India Ltd.,Asia,India,Consumer Non-Durables,Household/Personal Care,55.98,59.82,56.82,51.58,61.22,4.6,6.8,7.5
+China Oilfield Services Ltd.,Asia,China,Industrial Services,Contract Drilling,48.34,51.45,42.69,51.46,58.98,3.7,3.6,3.2
+Reliance Industries Ltd.,Asia,India,Energy Minerals,Oil Refining/Marketing,57.73,59.35,54.48,59.62,67.89,5.8,8.5,5.3
+Axis Bank Ltd.,Asia,India,Finance,Regional Banks,56.61,58.93,56.75,55.46,64.07,5.4,6.4,6.5
+"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,53.93,60.37,54.87,51.76,64.87,5.3,7.3,2.1
+United Co. RUSAL International PJSC,Europe,Russian Federation,Non-Energy Minerals,Aluminum,56.18,58.73,52.9,54.45,71.2,6.5,5.7,2.7
+"China Merchants Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,47.24,50.2,52.35,41.5,53.47,3.2,8.2,2.4
+HDFC Life Insurance Co. Ltd.,Asia,India,Finance,Multi-Line Insurance,55.94,51.55,57.88,57.17,54.95,4.8,6.4,6.4
+"Sichuan Road & Bridge Co., Ltd.",Asia,China,Industrial Services,Engineering & Construction,45.32,49.63,42.74,41.63,44.04,4.1,3.5,2.3
+IndusInd Bank Ltd.,Asia,India,Finance,Major Banks,53.85,56.36,46.76,57.49,65.61,4.2,2.8,4.6
+"IMEIK Technology Development Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,54,60.78,48.04,54.19,58.37,5.2,4.7,0.1
+Ambuja Cements Ltd.,Asia,India,Non-Energy Minerals,Construction Materials,60.63,63.96,56.97,55.69,59.4,9.1,8.1,0.4
+Xiaomi Corp.,Asia,China,Electronic Technology,Telecommunications Equipment,53.73,55.3,53.58,52.19,62.21,3.2,5.3,2.3
+Adani Green Energy Ltd.,Asia,India,Utilities,Electric Utilities,61.87,63.63,58.15,58.09,61.95,5.7,1.2,4.6
+"Asymchem Laboratories (Tianjin) Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,52.96,54.33,47.54,54.5,61.54,5.6,4.8,2.4
+"Shanghai RAAS Blood Products Co., Ltd.",Asia,China,Health Technology,Biotechnology,43.7,49.29,42.88,42.4,46.78,4.2,8.7,0.5
+"Bank of Ningbo Co., Ltd.",Asia,China,Finance,Regional Banks,42.27,41.59,40.06,44.07,48.84,2.3,3.6,2.5
+"Huaneng Power International, Inc.",Asia,China,Utilities,Electric Utilities,53.72,61.62,44.55,50.67,61.79,4.7,5.7,3.4
+"Jiangsu Hengli Hydraulic Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,44.18,46.13,43.18,41.6,52.71,4.3,3.4,0.5
+"China Yangtze Power Co., Ltd.",Asia,China,Utilities,Electric Utilities,46.97,47.65,45.43,47.52,66.6,2.1,7.6,8.3
+NOVATEK JSC,Europe,Russian Federation,Energy Minerals,Integrated Oil,58.96,60.88,56.34,59.8,65.77,8.7,4.1,5.4
+China Railway Group Ltd.,Asia,China,Industrial Services,Engineering & Construction,52.85,60.68,48.35,46.04,59.7,4.2,5.3,2.3
+Luxshare Precision Industry Co. Ltd.,Asia,China,Electronic Technology,Electronic Components,54.93,55.79,52.2,55.73,69.38,5.6,7.6,6
+Longfor Group Holdings Ltd.,Asia,China,Finance,Real Estate Development,57.23,58.51,58.09,53.6,62.71,5.7,7.8,3.2
+"Shaanxi Coal Industry Co., Ltd.",Asia,China,Energy Minerals,Coal,45.2,46.55,45.32,43.17,56.18,4.3,2.4,0.5
+"Iflytek Co., Ltd.",Asia,China,Technology Services,Information Technology Services,46.07,42.12,39.84,53.07,46.88,2.4,6.2,2.5
+China Southern Airlines Co. Ltd.,Asia,China,Transportation,Airlines,46.73,50.34,43.86,45.24,61.93,3.4,6.4,0.2
+China United Network Communications Ltd.,Asia,China,Communications,Major Telecommunications,46.83,43.14,46.86,50.62,66.03,3.8,3.5,3.7
+"Baidu, Inc.",Asia,China,Technology Services,Internet Software/Services,50.89,54.7,40.02,53.61,55.99,4.6,5.4,0.4
+"Weichai Power Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,54.63,56.23,51.7,53.95,63.5,5.8,7.2,0.6
+Tata Motors Ltd.,Asia,India,Consumer Durables,Motor Vehicles,59.34,58.56,55.87,62.51,59.33,8.3,8.2,0.2
+"NAURA Technology Group Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,50.67,51.85,45.7,52.87,61.19,5.3,5.3,0.3
+"Will Semiconductor Co., Ltd. Shanghai",Asia,China,Electronic Technology,Semiconductors,48.3,47.23,48.35,50.05,58.99,2.3,7.8,0.8
+"Shenwan Hongyuan Group Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,50.06,57.25,49.35,46.77,57.28,4.3,3.1,2.4
+China Eastern Airlines Corp. Ltd.,Asia,China,Transportation,Airlines,47.83,51.4,45.43,45.8,58.09,5.2,7.8,4.7
+"Unigroup Guoxin Microelectronics Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,44.81,48.08,40.96,42.06,53.56,4.7,2.4,2.3
+Chongqing Changan Automobile Co. Ltd.,Asia,China,Consumer Durables,Motor Vehicles,50.52,58.7,40.91,45.61,56.17,2.4,6.8,6.4
+Meituan,Asia,China,Transportation,Air Freight/Couriers,50.08,56.94,49.95,45,55.9,4.6,5.4,8.2
+TCL Technology Group Corp.,Asia,China,Electronic Technology,Telecommunications Equipment,46.21,54.45,45.85,37.96,61.48,3.2,2.3,4.2
+"China Vanke Co., Ltd.",Asia,China,Finance,Real Estate Development,55.46,58.25,46.95,56.49,65.33,4.6,7.6,7
+Petróleo Brasileiro SA,South America,Brazil,Energy Minerals,Integrated Oil,58.57,58.27,56.38,62.53,57.7,7.8,8.7,0.4
+"SDIC Power Holdings Co., Ltd.",Asia,China,Utilities,Electric Utilities,52.52,59.79,47.98,45.5,61.35,2.4,4.3,0.5
+"Shanghai Pharmaceuticals Holding Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,50.36,58.02,43.65,47.8,57.26,4.3,6.7,0.2
+"Yankuang Energy Group Co., Ltd.",Asia,China,Energy Minerals,Coal,52.78,57.71,47.68,49.99,58.24,5.6,4.6,0.8
+Asian Paints Ltd.,Asia,India,Process Industries,Industrial Specialties,60.59,64.66,52.5,60.18,58.74,7.6,8.7,2.5
+"China Galaxy Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.88,58.75,49.76,42.77,57.89,4.2,2.3,0.1
+"Shenzhen Transsion Holding Co., Ltd.",Asia,China,Communications,Major Telecommunications,46.81,48.29,42.71,47.73,57.35,3.5,6.3,3.7
+China International Capital Corp. Ltd.,Asia,China,Finance,Investment Banks/Brokers,46.8,48.73,43.15,48.69,61.8,4.2,2.1,4.6
+China Railway Signal & Communication Corp. Ltd.,Asia,China,Electronic Technology,Electronic Equipment/Instruments,48.38,48.55,45.79,49.85,61.32,4.6,4.6,2.3
+Nestlé India Ltd.,Asia,India,Consumer Non-Durables,Food: Major Diversified,50.71,49.86,48.9,52.32,58.78,6.5,3.6,6.3
+Oil & Natural Gas Corp. Ltd.,Asia,India,Energy Minerals,Oil Refining/Marketing,55.92,56.31,57.1,53.38,63.4,7.5,3.5,0.6
+Tech Mahindra Ltd.,Asia,India,Technology Services,Information Technology Services,60.87,63.81,61.37,58.35,66.21,7.8,2.3,5.3
+"China Zheshang Bank Co., Ltd.",Asia,China,Finance,Major Banks,49.35,52.24,49.08,48.21,62.87,4.2,6.4,0.2
+ICICI Bank Ltd.,Asia,India,Finance,Regional Banks,56.86,68.42,57.72,50.97,55.06,6.3,7.5,0.4
+"Wuxi Biologics (Cayman), Inc.",Asia,China,Health Technology,Biotechnology,53.34,55.05,52.95,52.99,64.17,5.1,7.4,0.7
+Novolipetsk Steel,Europe,Russian Federation,Non-Energy Minerals,Steel,59.33,62.51,54.42,57.91,72.34,8.3,3.7,0.2
+"Chongqing Zhifei Biological Products Co., Ltd.",Asia,China,Health Technology,Biotechnology,47.21,51.13,43.17,47.53,59.43,5.2,2.4,4.7
+"Rongsheng Petrochemical Co., Ltd.",Asia,China,Distribution Services,Wholesale Distributors,52.53,61.21,39.96,47.4,62.02,6.3,2.6,1.2
+Havells India Ltd.,Asia,India,Producer Manufacturing,Electrical Products,59.81,60.24,56.56,61.9,63.76,5.9,2.4,3.4
+China Tourism Group Duty Free Corp. Ltd.,Asia,China,Retail Trade,Discount Stores,42.55,46.12,43,41.05,60.16,3.1,4.3,2.6
+"Tata Power Co., Ltd.",Asia,India,Utilities,Electric Utilities,59.75,59.32,62.93,56.62,67.69,7.9,5.4,3.7
+"Jiangsu Yanghe Brewery Joint-Stock Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,45.01,46.12,43.4,44.04,59.48,4.1,3.2,0.2
+Shenzhou International Group Holdings Ltd.,Asia,China,Consumer Non-Durables,Apparel/Footwear,49.01,55.01,48.43,44.29,62.32,2.5,2.5,0.3
+"Ningxia Baofeng Energy Group Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,45.29,46.03,49.65,39.89,63.67,4.2,6.4,3.7
+"AVIC Jonhon Optronic Technology Co., Ltd.",Asia,China,Electronic Technology,Aerospace & Defense,47.76,53.16,39.8,44.66,63.29,3.2,2.1,2.7
+"CGN Power Co., Ltd.",Asia,China,Utilities,Electric Utilities,51.04,53.42,45.22,53.47,60.58,5.7,5.7,0.1
+"XPeng, Inc.",Asia,China,Consumer Durables,Motor Vehicles,53.73,58.58,49.8,49.72,57.42,5.8,2.4,3.6
+"Chongqing Rural Commercial Bank Co., Ltd.",Asia,China,Finance,Regional Banks,45.84,53.52,49.11,40.11,59.71,6.2,6.3,5.2
+"Focus Media Information Technology Co., Ltd.",Asia,China,Producer Manufacturing,Miscellaneous Manufacturing,41.83,44.69,41.85,37.64,47.66,3.5,2.4,4.1
+"JD.com, Inc.",Asia,China,Retail Trade,Internet Retail,56.58,56.81,49.62,58.01,53.84,5.9,4.7,4.2
+WEG SA,South America,Brazil,Producer Manufacturing,Electrical Products,52.3,51.72,51.6,53.76,64.84,5.6,5.7,5.2
+Centrais Elétricas Brasileiras SA,South America,Brazil,Utilities,Electric Utilities,58.59,59.09,59.03,57.3,66.83,8.1,8.6,5.7
+"Orient Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,48.27,53.46,45.13,47.95,62.01,3.2,2.4,3.2
+"Hengli Petrochemical Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,52.81,55.97,47.73,51.41,61.09,4.6,7.5,4.7
+"Beijing TongRenTang Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,47.69,48.42,42.89,49.19,55.19,4.1,3.2,4.3
+Banco Bradesco SA,South America,Brazil,Finance,Major Banks,56.25,64.65,51.18,55.82,69.2,9.4,7.8,2
+China Railway Construction Corp. Ltd.,Asia,China,Industrial Services,Engineering & Construction,46.8,49.9,43.68,45.09,66,5.6,3.5,4.7
+"Postal Savings Bank of China Co., Ltd.",Asia,China,Finance,Major Banks,49.26,59.5,50.25,43.88,58.55,2.4,7.4,2.4
+"China Shenhua Energy Co., Ltd.",Asia,China,Energy Minerals,Coal,55.09,56.53,51.44,56.09,67.64,5.2,1.3,2.4
+Punjab National Bank,Asia,India,Finance,Major Banks,45.79,43.59,44.83,48.54,44.12,4.2,4.7,1
+Adani Enterprises Ltd.,Asia,India,Distribution Services,Wholesale Distributors,59.8,63.17,49.38,63.7,57.51,5.9,9.7,3.6
+Shree Cement Ltd.,Asia,India,Non-Energy Minerals,Construction Materials,63.14,65.54,60.27,59.88,60.2,7.9,5.4,2.7
+"Baoshan Iron & Steel Co., Ltd.",Asia,China,Non-Energy Minerals,Steel,59.54,62.22,56.44,57.05,67.84,4.5,2.5,4.6
+China Energy Engineering Corp. Ltd.,Asia,China,Industrial Services,Engineering & Construction,48,52.01,44.23,45.58,59.47,2.5,7.8,7.2
+"Power Construction Corporation of China, Ltd.",Asia,China,Industrial Services,Engineering & Construction,47.9,49.67,42.73,49.41,63.2,2.3,4.3,4.6
+"Bank of Beijing Co., Ltd.",Asia,China,Finance,Major Banks,47.39,49.93,46.16,47.06,50.92,4.2,2.4,3.7
+"East Money Information Co., Ltd.",Asia,China,Technology Services,Internet Software/Services,44.61,42.12,41.57,48.44,40.71,4.6,6.4,0.5
+"Zijin Mining Group Co., Ltd.",Asia,China,Non-Energy Minerals,Precious Metals,58.71,62.59,50.4,58.87,61.26,2.6,6.4,0.2
+"Advanced Micro Fabrication Equipment, Inc. China",Asia,China,Producer Manufacturing,Industrial Machinery,48.16,48.23,49.2,47.32,59.46,2.4,3.4,0.7
+Cipla Ltd.,Asia,India,Health Technology,Pharmaceuticals: Other,55.61,56.5,51.75,56.73,62.59,4.8,6.4,0.2
+"Bank of Communications Co., Ltd.",Asia,China,Finance,Regional Banks,51.95,63.33,47.09,50.01,56.87,4.6,4.6,7.5
+ANTA Sports Products Ltd.,Asia,China,Consumer Non-Durables,Apparel/Footwear,54.32,56.21,48.95,55.5,57.95,4.8,2.3,3.7
+"XP, Inc.",South America,Brazil,Technology Services,Internet Software/Services,45.98,44.27,48.93,44.77,60.96,5.3,6.4,0.9
+"Jiangxi Copper Co., Ltd.",Asia,China,Non-Energy Minerals,Other Metals/Minerals,53.53,58.97,45.69,50.55,52.2,6.7,3.7,4.7
+"Jiangsu Hengrui Pharmaceuticals Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,50.09,50.28,48.75,50.52,59.24,3.5,3.7,0.2
+"LONGi Green Energy Technology Co., Ltd.",Asia,China,Electronic Technology,Semiconductors,51.68,52.38,49.62,51.72,67.73,4.2,5.4,4.6
+"Gree Electric Appliances, Inc. of Zhuhai",Asia,China,Producer Manufacturing,Industrial Machinery,46.36,49.88,43.54,42.23,50,2.8,3.1,8.3
+"Guotai Junan Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,43.46,43.06,45.21,42.27,62.06,3.1,3.8,9.2
+Sberbank Russia PJSC,Europe,Russian Federation,Finance,Regional Banks,47.19,55.85,47.8,42.81,55.11,3.5,4.6,6.4
+Metallurgical Corp. of China Ltd.,Asia,China,Industrial Services,Engineering & Construction,51.69,52.96,48.93,52.08,61.12,5.7,2.3,7.2
+China Communications Construction Co. Ltd.,Asia,China,Industrial Services,Engineering & Construction,55.42,55.2,51.38,58.66,61.46,6.3,5.2,4.7
+"Hangzhou Tigermed Consulting Co., Ltd.",Asia,China,Commercial Services,Miscellaneous Commercial Services,51.83,48.41,58.79,50.33,62.16,5.1,3.7,5.4
+Dongfang Electric Corp. Ltd.,Asia,China,Producer Manufacturing,Electrical Products,47.01,49.34,45.78,43.69,54.8,3.5,2.4,6.2
+"Shenzhen Inovance Technology Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,47.29,46.22,46.96,49.63,66.5,5.2,6.4,3.7
+"Huizhou Desay SV Automotive Co., Ltd.",Asia,China,Producer Manufacturing,Auto Parts: OEM,43.04,45.04,42.76,41.15,61.42,4.6,2.7,5.9
+Tianqi Lithium Corp.,Asia,China,Process Industries,Chemicals: Specialty,51.86,51.79,57.5,46.87,63.67,5.7,4.2,2.4
+Wipro Ltd.,Asia,India,Technology Services,Information Technology Services,57.38,64.69,58.02,51.51,62.92,4.8,7.8,7.2
+"B3 SA-Brasil, Bolsa, Balcão",South America,Brazil,Finance,Investment Managers,52.46,52.19,51.93,53.17,62.54,5.2,3.5,4.5
+"China Shipbuilding Industry Co., Ltd.",Asia,China,Producer Manufacturing,Trucks/Construction/Farm Machinery,42.98,44.77,41.65,40.9,58.62,3.2,4.2,7.2
+Divi's Laboratories Ltd.,Asia,India,Health Technology,Pharmaceuticals: Major,52.79,61.03,51.33,50.95,58.72,4.7,1.4,4.5
+"Foxconn Industrial Internet Co., Ltd.",Asia,China,Electronic Technology,Telecommunications Equipment,52.72,59.07,57.46,43.37,68.27,7.5,6.5,7.3
+"Shanxi Xinghuacun Fen Wine Factory Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,44.09,44.98,43.95,42.75,51.77,3.6,3.2,5.8
+"Zhejiang Sanhua Intelligent Controls Co., Ltd.",Asia,China,Producer Manufacturing,Industrial Machinery,45.26,46.99,45.94,41.88,48.56,2.3,6.8,3.6
+Huadian Power International Corp. Ltd.,Asia,China,Utilities,Electric Utilities,54.98,60.77,49.04,51.91,61.16,5.8,5.7,5
+Avenue Supermarts Ltd.,Asia,India,Retail Trade,Specialty Stores,47.96,49.9,44.84,47.24,53.35,3.2,3.9,3.7
+"Guosen Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,44.52,44.46,44.76,44.36,60.82,4.5,2.3,8.2
+Coal India Ltd.,Asia,India,Energy Minerals,Coal,58.18,63.1,55.45,53.43,56.44,7.11,5.1,4.5
+Bajaj Auto Ltd.,Asia,India,Consumer Durables,Motor Vehicles,51.73,53.37,45.6,53.31,54.21,6.4,5.3,8.2
+"Aier Eye Hospital Group Co., Ltd.",Asia,China,Health Services,Medical/Nursing Services,47.59,48.93,46.85,47.21,58.08,2.3,7.1,0.5
+JSW Steel Ltd.,Asia,India,Non-Energy Minerals,Steel,63.32,71.92,51.48,57.72,61.02,7.2,8.1,0.3
+"WuXi AppTec Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,55.16,59.7,54.67,54.03,66.17,3.5,5.2,0.8
+Cholamandalam Investment & Finance Co. Ltd.,Asia,India,Finance,Finance/Rental/Leasing,49.08,51.54,46.64,49.6,48.96,2.5,7.2,0.4
+SAIC Motor Corp. Ltd.,Asia,China,Consumer Durables,Motor Vehicles,44.63,46.68,43.13,42.85,63.34,5.8,2.7,5.2
+PhosAgro PJSC,Europe,Russian Federation,Process Industries,Chemicals: Agricultural,57.18,60.02,54.57,54.12,67.13,8.1,2.7,5.4
+"Shanghai International Port (Group) Co., Ltd.",Asia,China,Transportation,Other Transportation,46.69,45.23,44.21,52.53,61.31,3.1,3.5,3.5
+Vale SA,South America,Brazil,Non-Energy Minerals,Steel,64.03,70.93,59,56.13,56.01,10.2,6.8,6.5
+ZTE Corp.,Asia,China,Electronic Technology,Telecommunications Equipment,52.74,53.34,48.84,54.44,66.62,2.4,1.3,1.2
+Kotak Mahindra Bank Ltd.,Asia,India,Finance,Major Banks,60.96,71.28,62.02,55.5,60.9,7.2,4.6,3.5
+"New China Life Insurance Co., Ltd.",Asia,China,Finance,Multi-Line Insurance,47.35,51.88,42.23,48,45.84,2.4,1.3,2.4
+"China Northern Rare Earth (Group) High-Tech Co., Ltd.",Asia,China,Process Industries,Chemicals: Specialty,43.2,43.86,40.48,44.33,59.02,5.3,8.6,6.5
+"Daqin Railway Co., Ltd.",Asia,China,Transportation,Railroads,43.49,45.87,44.56,38.28,46.23,2.5,3.6,3.4
+"Zhangzhou Pientzehuang Pharmaceutical Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,47.67,53.34,44.03,47.35,56.85,4.2,3.2,4.2
+Kuaishou Technology,Asia,China,Technology Services,Information Technology Services,41.75,48.81,42.47,36.13,56.71,1.4,5.7,2.4
+"Anhui Gujing Distillery Co., Ltd.",Asia,China,Consumer Non-Durables,Beverages: Alcoholic,43.6,44.72,43.73,41.78,55.9,2.5,2.4,4.3
+"Gongniu Group Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,46.59,48.19,46.08,44.01,57.28,4.2,6.4,2.4
+"Guangzhou Automobile Group Co., Ltd.",Asia,China,Consumer Durables,Motor Vehicles,48.61,52.71,43.33,46.44,63.27,2.5,2.8,5.3
+China Tower Corp. Ltd.,Asia,China,Communications,Specialty Telecommunications,53.6,57.38,46.02,55.45,56.68,6.3,1.2,3.4
+"Hainan Airlines Holding Co., Ltd.",Asia,China,Transportation,Airlines,44.99,43.8,45.57,45.94,49.26,2.6,4.2,5.2
+"Didi Global, Inc.",Asia,China,Transportation,Other Transportation,42.61,42.19,44.17,42.13,42.62,1.3,4.6,3.5
+"Zhuzhou CRRC Times Electric Co., Ltd.",Asia,China,Producer Manufacturing,Electrical Products,45.92,47.43,45.02,43.99,58.58,2.8,1.2,3.1
+Klabin SA,South America,Brazil,Non-Energy Minerals,Forest Products,61.55,65.39,54.96,57.18,64.23,6.1,6.4,3.5
+"Huadong Medicine Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,49.63,48.28,43.65,52.15,56.69,3.1,3,3.5
+"NIO, Inc.",Asia,China,Consumer Durables,Motor Vehicles,53.47,56.64,50.99,50.79,44.7,3.6,4.2,3.2
+Trip.com Group Ltd.,Asia,China,Consumer Services,Other Consumer Services,51.82,47.23,50.75,55.78,43.06,3.1,7.8,5.3
+"Foshan Haitian Flavouring & Food Co., Ltd.",Asia,China,Consumer Non-Durables,Food: Specialty/Candy,48.01,49.88,46.39,46.41,58.95,3.1,1.2,2.3
+InterGlobe Aviation Ltd.,Asia,India,Transportation,Airlines,51.77,52.91,53.19,48.41,58.97,5.3,3.2,3.2
+Adani Energy Solutions Ltd.,Asia,India,Utilities,Electric Utilities,60.27,62.78,61.01,55.33,58.7,9.6,6.4,5.4
+"Fuyao Glass Industry Group Co., Ltd.",Asia,China,Consumer Durables,Home Furnishings,56.82,62.72,46.02,55.12,62.44,2.4,6.4,4.3
+"GF Securities Co., Ltd.",Asia,China,Finance,Investment Banks/Brokers,44.55,50.87,48.38,39.06,62.99,1.6,2.1,1.2
+Bharti Airtel Ltd.,Asia,India,Communications,Wireless Telecommunications,58.53,55.93,60.16,59.96,61.83,4.2,5.6,5.4
+"Guangzhou Baiyunshan Pharmaceutical Holdings Co., Ltd.",Asia,China,Health Technology,Pharmaceuticals: Major,46.26,49.86,46.32,45.21,60.46,1.3,2.1,2.3
+Godrej Consumer Products Ltd.,Asia,India,Consumer Non-Durables,Household/Personal Care,53.22,52.75,49.13,55.81,69.18,5.7,6.8,4.6
