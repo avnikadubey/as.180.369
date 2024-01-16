@@ -5,9 +5,7 @@ author: Avnika Dubey
 execute:
   execute_notebooks: force
 
-bibtex_bibfiles:
-  - citearticles.bib
-  - more-references.bib
+bibtex_bibfiles: "citearticles.bib"
 
 sphinx:
   config:
